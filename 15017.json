@@ -1,0 +1,90 @@
+{
+  "gameId": 15017,
+  "gameTitle": "Night Driver",
+  "achievements": [
+    {
+      "achievementId": 205054,
+      "title": "Duskburgring",
+      "description": "Reach 100 points. [Factory Settings]",
+      "points": 2,
+      "trueRatio": 2,
+      "type": "progression",
+      "author": "guindev",
+      "badgeUrl": "https://media.retroachievements.org/Badge/227280.png",
+      "numAwarded": 733,
+      "numAwardedHardcore": 615,
+      "displayOrder": 1,
+      "memAddr": "R:0xH00c4!=74_0xL0193=1_0xL0194=0_0xL0195=0_d0xL0193=0_d0xL0194=9_d0xL0195=9_N:0xH0191=79_N:0xH0192=70_P:0xH0193=70"
+    },
+    {
+      "achievementId": 205055,
+      "title": "Nightona",
+      "description": "Reach 200 points. [Factory Settings]",
+      "points": 10,
+      "trueRatio": 12,
+      "type": "progression",
+      "author": "guindev",
+      "badgeUrl": "https://media.retroachievements.org/Badge/227281.png",
+      "numAwarded": 549,
+      "numAwardedHardcore": 484,
+      "displayOrder": 2,
+      "memAddr": "R:0xH00c4!=74_0xL0193=2_0xL0194=0_0xL0195=0_d0xL0193=1_d0xL0194=9_d0xL0195=9_N:0xH0191=79_N:0xH0192=70_P:0xH0193=70"
+    },
+    {
+      "achievementId": 205056,
+      "title": "Paris Darkar",
+      "description": "Reach 280 points. [Factory Settings]",
+      "points": 25,
+      "trueRatio": 31,
+      "type": "win_condition",
+      "author": "guindev",
+      "badgeUrl": "https://media.retroachievements.org/Badge/227282.png",
+      "numAwarded": 508,
+      "numAwardedHardcore": 449,
+      "displayOrder": 3,
+      "memAddr": "R:0xH00c4!=74_0xL0193=2_0xL0194=8_0xL0195=0_d0xL0193=2_d0xL0194=7_d0xL0195=9_N:0xH0191=79_N:0xH0192=70_P:0xH0193=70"
+    },
+    {
+      "achievementId": 205057,
+      "title": "Enjoying the View",
+      "description": "Reach a top speed of 120. [Factory Settings]",
+      "points": 3,
+      "trueRatio": 3,
+      "type": "",
+      "author": "guindev",
+      "badgeUrl": "https://media.retroachievements.org/Badge/227283.png",
+      "numAwarded": 729,
+      "numAwardedHardcore": 607,
+      "displayOrder": 4,
+      "memAddr": "R:0xH00c4!=74_d0xH00b2=11_0xH00b2=12_N:0xH0191=79_N:0xH0192=70_P:0xH0193=70"
+    },
+    {
+      "achievementId": 205058,
+      "title": "Night Dashing",
+      "description": "Reach a top speed of 240. [Factory Settings]",
+      "points": 10,
+      "trueRatio": 11,
+      "type": "",
+      "author": "guindev",
+      "badgeUrl": "https://media.retroachievements.org/Badge/227284.png",
+      "numAwarded": 574,
+      "numAwardedHardcore": 507,
+      "displayOrder": 5,
+      "memAddr": "R:0xH00c4!=74_d0xH00b2=23_0xH00b2=24_N:0xH0191=79_N:0xH0192=70_P:0xH0193=70"
+    },
+    {
+      "achievementId": 205059,
+      "title": "Into the Darkness",
+      "description": "Get Trucked [Factory Settings].",
+      "points": 0,
+      "trueRatio": 0,
+      "type": "",
+      "author": "guindev",
+      "badgeUrl": "https://media.retroachievements.org/Badge/227285.png",
+      "numAwarded": 584,
+      "numAwardedHardcore": 515,
+      "displayOrder": 6,
+      "memAddr": "R:0xH00c4!=74_d0xH0191=79_d0xH0192=70_d0xH0193=70"
+    }
+  ]
+}

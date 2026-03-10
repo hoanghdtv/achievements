@@ -1,0 +1,90 @@
+{
+  "gameId": 22589,
+  "gameTitle": "~Homebrew~ A 20 Second Platformer",
+  "achievements": [
+    {
+      "achievementId": 311387,
+      "title": "20 Seconds of Existing",
+      "description": "Complete the game",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "LilCutieSophia",
+      "badgeUrl": "https://media.retroachievements.org/Badge/344498.png",
+      "numAwarded": 987,
+      "numAwardedHardcore": 930,
+      "displayOrder": 0,
+      "memAddr": "d0xH00d81c!=11_0xH00d81c=11"
+    },
+    {
+      "achievementId": 311388,
+      "title": "40 Seconds of Hopping Like a Bunny",
+      "description": "Complete the game twice",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "LilCutieSophia",
+      "badgeUrl": "https://media.retroachievements.org/Badge/344499.png",
+      "numAwarded": 969,
+      "numAwardedHardcore": 919,
+      "displayOrder": 0,
+      "memAddr": "N:d0xH00d81c!=11_0xH00d81c=11.2."
+    },
+    {
+      "achievementId": 311389,
+      "title": "60 Seconds of Exciting Action",
+      "description": "Complete the game three times",
+      "points": 2,
+      "trueRatio": 2,
+      "type": "progression",
+      "author": "LilCutieSophia",
+      "badgeUrl": "https://media.retroachievements.org/Badge/344500.png",
+      "numAwarded": 968,
+      "numAwardedHardcore": 919,
+      "displayOrder": 0,
+      "memAddr": "N:d0xH00d81c!=11_0xH00d81c=11.3."
+    },
+    {
+      "achievementId": 311390,
+      "title": "80 Seconds of Agonizing Joy",
+      "description": "Complete the game four times",
+      "points": 2,
+      "trueRatio": 2,
+      "type": "progression",
+      "author": "LilCutieSophia",
+      "badgeUrl": "https://media.retroachievements.org/Badge/344501.png",
+      "numAwarded": 966,
+      "numAwardedHardcore": 918,
+      "displayOrder": 0,
+      "memAddr": "N:d0xH00d81c!=11_0xH00d81c=11.4."
+    },
+    {
+      "achievementId": 311391,
+      "title": "100 Seconds of Everesting Pain",
+      "description": "Complete the game five times",
+      "points": 3,
+      "trueRatio": 3,
+      "type": "win_condition",
+      "author": "LilCutieSophia",
+      "badgeUrl": "https://media.retroachievements.org/Badge/344502.png",
+      "numAwarded": 961,
+      "numAwardedHardcore": 913,
+      "displayOrder": 0,
+      "memAddr": "N:d0xH00d81c!=11_0xH00d81c=11.5."
+    },
+    {
+      "achievementId": 312101,
+      "title": "20 Seconds of Rushing",
+      "description": "Complete the game before the clock goes below half",
+      "points": 2,
+      "trueRatio": 2,
+      "type": "",
+      "author": "LilCutieSophia",
+      "badgeUrl": "https://media.retroachievements.org/Badge/344503.png",
+      "numAwarded": 955,
+      "numAwardedHardcore": 910,
+      "displayOrder": 1,
+      "memAddr": "0xH00c584=1_d0xH00d81c!=11_T:0xH00d81c=11_P:0x 00c588=17943.1._P:0xS00c5a7=1.1.SR:0x 00c588=0_R:0xH00c584=0"
+    }
+  ]
+}

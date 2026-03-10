@@ -1,0 +1,90 @@
+{
+  "gameId": 33170,
+  "gameTitle": "~Prototype~ Crash Landed",
+  "achievements": [
+    {
+      "achievementId": 548200,
+      "title": "Good Ol' Wumpa Island!",
+      "description": "Finish Level 1",
+      "points": 2,
+      "trueRatio": 2,
+      "type": "progression",
+      "author": "BEXUS",
+      "badgeUrl": "https://media.retroachievements.org/Badge/623279.png",
+      "numAwarded": 230,
+      "numAwardedHardcore": 215,
+      "displayOrder": 1,
+      "memAddr": "0xH00067224=6_d0xH000ea0a6=0_0xH000ea0a6=1_Z:0xH00067224=3_I:0xW00069f5c_P:0xH0000051e=1.1."
+    },
+    {
+      "achievementId": 548201,
+      "title": "Don't Get Impaled!",
+      "description": "Finish Level 2",
+      "points": 3,
+      "trueRatio": 4,
+      "type": "win_condition",
+      "author": "BEXUS",
+      "badgeUrl": "https://media.retroachievements.org/Badge/623281.png",
+      "numAwarded": 221,
+      "numAwardedHardcore": 207,
+      "displayOrder": 2,
+      "memAddr": "0xH00067224=7_d0xH000ea0a6=0_0xH000ea0a6=1_Z:0xH00067224=3_I:0xW00069f5c_P:0xH0000051e=1.1."
+    },
+    {
+      "achievementId": 564121,
+      "title": "Optimized Jumping!",
+      "description": "Finish the prototype while jumping less than 19 times",
+      "points": 5,
+      "trueRatio": 7,
+      "type": "",
+      "author": "BEXUS",
+      "badgeUrl": "https://media.retroachievements.org/Badge/640874.png",
+      "numAwarded": 197,
+      "numAwardedHardcore": 186,
+      "displayOrder": 3,
+      "memAddr": "R:0xH00067224=3S0xH00067224=6.1._T:0xH00067224=7_d0xH000ea0a6=0_T:0xH000ea0a6=1_I:0xW00069f5c_P:0xH0000051e=1.1._I:0xW00069f5c_N:d0xH0000029c<=1_I:0xW00069f5c_P:0xH0000029c=2.19.SI:0xW00069f5c_N:d0xH0000029c<=1_I:0xW00069f5c_M:0xH0000029c=2.19._0=1"
+    },
+    {
+      "achievementId": 564120,
+      "title": "Crashing the Score!",
+      "description": "Finish the Prototype with a total score of 2100 without taking damage",
+      "points": 10,
+      "trueRatio": 15,
+      "type": "",
+      "author": "BEXUS",
+      "badgeUrl": "https://media.retroachievements.org/Badge/640873.png",
+      "numAwarded": 188,
+      "numAwardedHardcore": 178,
+      "displayOrder": 4,
+      "memAddr": "0xH00067224=6.1._T:0xH00067224=7_d0xH000ea0a6=0_T:0xH000ea0a6=1_B:d0x 000ea38c_T:0x 000ea38c=35.60._I:0xW00069f5c_P:0xH0000051e=1.1._I:0xW00069f5c_N:d0xH00000516=3_I:0xW00069f5c_P:0xH00000516=2.1.SR:0xH00067224=3"
+    },
+    {
+      "achievementId": 550387,
+      "title": "The Perfect Prototype!",
+      "description": "Finish the Prototype in 1:40 without taking damage",
+      "points": 10,
+      "trueRatio": 15,
+      "type": "",
+      "author": "BEXUS",
+      "badgeUrl": "https://media.retroachievements.org/Badge/624974.png",
+      "numAwarded": 183,
+      "numAwardedHardcore": 174,
+      "displayOrder": 5,
+      "memAddr": "0xH00067224=6.1._T:0xH00067224=7_d0xH000ea0a6=0_T:0xH000ea0a6=1_I:0xW00069f5c_P:0xH0000051e=1.1._N:0xH00067224=6.1._P:0xH000ea284=0.6000._I:0xW00069f5c_N:d0xH00000516=3_I:0xW00069f5c_P:0xH00000516=2.1.SR:0xH00067224=3"
+    },
+    {
+      "achievementId": 548199,
+      "title": "Zen Bandicoot",
+      "description": "Reach 900 Points without killing enemies or collecting wumpas",
+      "points": 5,
+      "trueRatio": 7,
+      "type": "",
+      "author": "BEXUS",
+      "badgeUrl": "https://media.retroachievements.org/Badge/623294.png",
+      "numAwarded": 193,
+      "numAwardedHardcore": 183,
+      "displayOrder": 6,
+      "memAddr": "0xH00067224=6_d0x 000ea38c<=900_0x 000ea38c>=900_I:0xW00069f5c_P:0xH0000051e=1.1._P:0xH00096a20>d0xH00096a20.1.SR:0xH00067224=3"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "gameId": 26532,
+  "gameTitle": "Dora the Explorer: Dora Saves the Mermaids",
+  "achievements": [
+    {
+      "achievementId": 562674,
+      "title": "Vámonos!",
+      "description": "Beat the game within 12 minutes",
+      "points": 4,
+      "trueRatio": 6,
+      "type": "",
+      "author": "RaptorBee",
+      "badgeUrl": "https://media.retroachievements.org/Badge/641134.png",
+      "numAwarded": 163,
+      "numAwardedHardcore": 154,
+      "displayOrder": 1,
+      "memAddr": "0=0SN:0xH00048424!=4_R:0xH00048424!=3_N:0xH00048440=0_N:d0xH00048424=2_0xH00048424=4.1._R:0=0.43200._T:0xH00048440=23_T:d0xH00048420=4_T:0xH00048420=3_P:0xG003ffe0c!=1497649752SN:0xH00047744!=4_R:0xH00047744!=3_N:0xH00047760=0_N:d0xH00047744=2_0xH00047744=4.1._R:0=0.43200._N:0xH00047744=4_T:0xH00047760=23_T:0xH00047778=0_P:0xG003ffe0c!=1497649753"
+    },
+    {
+      "achievementId": 527042,
+      "title": "Beach Patrol",
+      "description": "In story mode, clean the beach",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "RaptorBee",
+      "badgeUrl": "https://media.retroachievements.org/Badge/641135.png",
+      "numAwarded": 173,
+      "numAwardedHardcore": 163,
+      "displayOrder": 2,
+      "memAddr": "0=0S0xH00047778=0_0xH00047744=3_d0xH00047744=4_0xH00047760=4_0xG003ffe0c=1497649753_0xG003ffe10=1197015040S0xH00048420=4_0xH00048424=3_d0xH00048424=4_0xH00048440=4_0xG003ffe0c=1497649752_0xG003ffe10=892600320"
+    },
+    {
+      "achievementId": 527043,
+      "title": "Bridge Buffer",
+      "description": "In story mode, clean the bridge",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "RaptorBee",
+      "badgeUrl": "https://media.retroachievements.org/Badge/641136.png",
+      "numAwarded": 173,
+      "numAwardedHardcore": 163,
+      "displayOrder": 3,
+      "memAddr": "0=0S0xH00048420=4_0xH00048424=3_d0xH00048424=4_0xH00048440=8_0xG003ffe0c=1497649752_0xG003ffe10=892600320S0xH00047778=0_0xH00047744=3_d0xH00047744=4_0xH00047760=8_0xG003ffe0c=1497649753_0xG003ffe10=1197015040"
+    },
+    {
+      "achievementId": 527044,
+      "title": "Island Clear-Out",
+      "description": "In story mode, clean the island",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "RaptorBee",
+      "badgeUrl": "https://media.retroachievements.org/Badge/641137.png",
+      "numAwarded": 173,
+      "numAwardedHardcore": 163,
+      "displayOrder": 4,
+      "memAddr": "0=0S0xH00048420=4_0xH00048424=3_d0xH00048424=4_0xH00048440=13_0xG003ffe0c=1497649752_0xG003ffe10=892600320S0xH00047778=0_0xH00047744=3_d0xH00047744=4_0xH00047760=13_0xG003ffe0c=1497649753_0xG003ffe10=1197015040"
+    },
+    {
+      "achievementId": 527045,
+      "title": "Tidy Tides",
+      "description": "In story mode, clean the ocean",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "RaptorBee",
+      "badgeUrl": "https://media.retroachievements.org/Badge/641138.png",
+      "numAwarded": 173,
+      "numAwardedHardcore": 163,
+      "displayOrder": 5,
+      "memAddr": "0=0S0xH00048420=4_0xH00048424=3_d0xH00048424=4_0xH00048440=17_0xG003ffe0c=1497649752_0xG003ffe10=892600320S0xH00047778=0_0xH00047744=3_d0xH00047744=4_0xH00047760=17_0xG003ffe0c=1497649753_0xG003ffe10=1197015040"
+    },
+    {
+      "achievementId": 527046,
+      "title": "That Isn't Peach!",
+      "description": "In story mode, clean the kingdom",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "win_condition",
+      "author": "RaptorBee",
+      "badgeUrl": "https://media.retroachievements.org/Badge/641139.png",
+      "numAwarded": 171,
+      "numAwardedHardcore": 162,
+      "displayOrder": 6,
+      "memAddr": "0=0S0xH00048420=3_0xH00048424=4_d0xH00048424=3_0xH00048440=23_0xG003ffe0c=1497649752_0xG003ffe10=892600320S0xH00047778=0_0xH00047744=3_d0xH00047744=4_0xH00047760=23_0xG003ffe0c=1497649753_0xG003ffe10=1197015040"
+    }
+  ]
+}

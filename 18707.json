@@ -1,0 +1,90 @@
+{
+  "gameId": 18707,
+  "gameTitle": "~Homebrew~ ~Demo~ Mina the Hollower GBC Demake",
+  "achievements": [
+    {
+      "achievementId": 204842,
+      "title": "Key-Pa-Way!",
+      "description": "Grab the key from the bat.",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "ShadwSonic",
+      "badgeUrl": "https://media.retroachievements.org/Badge/226975.png",
+      "numAwarded": 362,
+      "numAwardedHardcore": 352,
+      "displayOrder": 0,
+      "memAddr": "0xH00eb28=1_0xH00eb2a>0"
+    },
+    {
+      "achievementId": 204843,
+      "title": "Retail Recommendation",
+      "description": "Complete the game. Visiting the site is optional, but highly advised.",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "win_condition",
+      "author": "ShadwSonic",
+      "badgeUrl": "https://media.retroachievements.org/Badge/226976.png",
+      "numAwarded": 318,
+      "numAwardedHardcore": 309,
+      "displayOrder": 0,
+      "memAddr": "0xH00e0b9=17.1._0xH00e0b9=21"
+    },
+    {
+      "achievementId": 204844,
+      "title": "Grave Robber",
+      "description": "Beat the game with 60 bones",
+      "points": 3,
+      "trueRatio": 3,
+      "type": "",
+      "author": "ShadwSonic",
+      "badgeUrl": "https://media.retroachievements.org/Badge/226977.png",
+      "numAwarded": 304,
+      "numAwardedHardcore": 295,
+      "displayOrder": 0,
+      "memAddr": "0xH00e0b9=21_0xH00eb34=60"
+    },
+    {
+      "achievementId": 204845,
+      "title": "Healthy Hollower",
+      "description": "Beat the game without taking damage",
+      "points": 5,
+      "trueRatio": 6,
+      "type": "",
+      "author": "ShadwSonic",
+      "badgeUrl": "https://media.retroachievements.org/Badge/226978.png",
+      "numAwarded": 308,
+      "numAwardedHardcore": 299,
+      "displayOrder": 0,
+      "memAddr": "0xH00e0b9=21_0xH00eb2a=5"
+    },
+    {
+      "achievementId": 204846,
+      "title": "Perfect Procurement",
+      "description": "Beat the game with all 60 bones AND no damage",
+      "points": 5,
+      "trueRatio": 6,
+      "type": "",
+      "author": "ShadwSonic",
+      "badgeUrl": "https://media.retroachievements.org/Badge/226979.png",
+      "numAwarded": 297,
+      "numAwardedHardcore": 288,
+      "displayOrder": 0,
+      "memAddr": "0xH00e0b9=21_0xH00eb34=60_0xH00eb2a=5"
+    },
+    {
+      "achievementId": 204847,
+      "title": "Express Escape",
+      "description": "From game launch, beat the game in under 45 seconds (Reset game to retry)",
+      "points": 5,
+      "trueRatio": 6,
+      "type": "",
+      "author": "ShadwSonic",
+      "badgeUrl": "https://media.retroachievements.org/Badge/226980.png",
+      "numAwarded": 306,
+      "numAwardedHardcore": 297,
+      "displayOrder": 0,
+      "memAddr": "P:0xH00e0b9=17.2700._T:0xH00e0b9=21_R:0xH00e0b9=0"
+    }
+  ]
+}

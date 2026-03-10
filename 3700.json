@@ -1,0 +1,90 @@
+{
+  "gameId": 3700,
+  "gameTitle": "Who Wants to Be a Millionaire",
+  "achievements": [
+    {
+      "achievementId": 184514,
+      "title": "Who Wants to be a Thousandaire",
+      "description": "Correctly answer the £1,000 question.",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "blendedsea",
+      "badgeUrl": "https://media.retroachievements.org/Badge/205131.png",
+      "numAwarded": 1864,
+      "numAwardedHardcore": 1532,
+      "displayOrder": 0,
+      "memAddr": "0xH000124=1_0xH000114=4_0x 007e5c=2440"
+    },
+    {
+      "achievementId": 184515,
+      "title": "The Safety Net",
+      "description": "Correctly answer the £32,000 question.",
+      "points": 3,
+      "trueRatio": 3,
+      "type": "progression",
+      "author": "blendedsea",
+      "badgeUrl": "https://media.retroachievements.org/Badge/205132.png",
+      "numAwarded": 1694,
+      "numAwardedHardcore": 1429,
+      "displayOrder": 0,
+      "memAddr": "0xH000124=1_0xH000114=9_0x 007e5c=2440"
+    },
+    {
+      "achievementId": 184516,
+      "title": "The Million Pound Question",
+      "description": "Correctly answer the £1,000,000 question.",
+      "points": 5,
+      "trueRatio": 5,
+      "type": "win_condition",
+      "author": "blendedsea",
+      "badgeUrl": "https://media.retroachievements.org/Badge/205133.png",
+      "numAwarded": 1579,
+      "numAwardedHardcore": 1361,
+      "displayOrder": 0,
+      "memAddr": "0xH000124=1_0xH000114=14_0x 007e5c=2440"
+    },
+    {
+      "achievementId": 184517,
+      "title": "The John Carpenter Strategy",
+      "description": "On the £1,000,000 question, phone a friend and then answer the question correctly.",
+      "points": 5,
+      "trueRatio": 5,
+      "type": "",
+      "author": "blendedsea",
+      "badgeUrl": "https://media.retroachievements.org/Badge/205134.png",
+      "numAwarded": 1497,
+      "numAwardedHardcore": 1314,
+      "displayOrder": 0,
+      "memAddr": "0xH000124=1_N:0xH000114=14_0xO000118<d0xO000118.1._0x 007e5c=2440_R:0xH000124>d0xH000124"
+    },
+    {
+      "achievementId": 184518,
+      "title": "Was There Someone Coughing in the Audience?",
+      "description": "Answer every question correctly without ever using a Lifeline.",
+      "points": 10,
+      "trueRatio": 10,
+      "type": "",
+      "author": "blendedsea",
+      "badgeUrl": "https://media.retroachievements.org/Badge/205135.png",
+      "numAwarded": 1538,
+      "numAwardedHardcore": 1340,
+      "displayOrder": 0,
+      "memAddr": "0xH000124=1_0xH000114=14_0x 007e5c=2440_P:0xH000118!=7"
+    },
+    {
+      "achievementId": 184519,
+      "title": "You Blew It! You Absolute Fool!",
+      "description": "On the £100 question, use all your Lifelines and then answer the question correctly.",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "",
+      "author": "blendedsea",
+      "badgeUrl": "https://media.retroachievements.org/Badge/205136.png",
+      "numAwarded": 1627,
+      "numAwardedHardcore": 1429,
+      "displayOrder": 0,
+      "memAddr": "0xH000124=1_N:0xH000114=0_0xM000118<d0xM000118.1._N:0xH000114=0_0xN000118<d0xN000118.1._N:0xH000114=0_0xO000118<d0xO000118.1._0x 007e5c=2440_R:0xH000124=0"
+    }
+  ]
+}

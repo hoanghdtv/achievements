@@ -1,0 +1,90 @@
+{
+  "gameId": 14165,
+  "gameTitle": "Sesame Street: Elmo's ABCs",
+  "achievements": [
+    {
+      "achievementId": 143168,
+      "title": "A Day at the Fair",
+      "description": "Complete the A=A game and learn your uppercase letters",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "Griffin",
+      "badgeUrl": "https://media.retroachievements.org/Badge/222959.png",
+      "numAwarded": 1197,
+      "numAwardedHardcore": 1105,
+      "displayOrder": 0,
+      "memAddr": "d0xH00de4b=2_0xH00de4b=3_0xH00de49=0"
+    },
+    {
+      "achievementId": 143169,
+      "title": "Oh, That's What Those Are",
+      "description": "Complete the a=a game and learn your lowercase letters",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "Griffin",
+      "badgeUrl": "https://media.retroachievements.org/Badge/222960.png",
+      "numAwarded": 1187,
+      "numAwardedHardcore": 1105,
+      "displayOrder": 0,
+      "memAddr": "d0xH00de4b=2_0xH00de4b=3_0xH00de49=1"
+    },
+    {
+      "achievementId": 143170,
+      "title": "A Test of Your Skill",
+      "description": "Complete the a=A_a game and learn the difference between upper and lowercase letters",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "Griffin",
+      "badgeUrl": "https://media.retroachievements.org/Badge/222961.png",
+      "numAwarded": 1183,
+      "numAwardedHardcore": 1100,
+      "displayOrder": 0,
+      "memAddr": "d0xH00de4b=2_0xH00de4b=3_0xH00de49=2"
+    },
+    {
+      "achievementId": 143171,
+      "title": "Cat + Cat = Cat",
+      "description": "Complete the CAT=CAT game and finally learn how to spell",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "Griffin",
+      "badgeUrl": "https://media.retroachievements.org/Badge/222962.png",
+      "numAwarded": 1184,
+      "numAwardedHardcore": 1099,
+      "displayOrder": 0,
+      "memAddr": "d0xH00de4b=2_0xH00de4b=3_0xH00de49=3"
+    },
+    {
+      "achievementId": 143172,
+      "title": "This Will Be on the Quiz",
+      "description": "Complete the _AT game and learn how to spell again",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "Griffin",
+      "badgeUrl": "https://media.retroachievements.org/Badge/222963.png",
+      "numAwarded": 1179,
+      "numAwardedHardcore": 1097,
+      "displayOrder": 0,
+      "memAddr": "d0xH00de4b=2_0xH00de4b=3_0xH00de49=4"
+    },
+    {
+      "achievementId": 143173,
+      "title": "Preschool Graduate",
+      "description": "Complete the CA_ game and learn how to spell again (again)",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "Griffin",
+      "badgeUrl": "https://media.retroachievements.org/Badge/222964.png",
+      "numAwarded": 1174,
+      "numAwardedHardcore": 1092,
+      "displayOrder": 0,
+      "memAddr": "d0xH00de4b=2_0xH00de4b=3_0xH00de49=5"
+    }
+  ]
+}

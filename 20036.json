@@ -1,0 +1,90 @@
+{
+  "gameId": 20036,
+  "gameTitle": "~Homebrew~ Postie",
+  "achievements": [
+    {
+      "achievementId": 229378,
+      "title": "Castle of Ribe",
+      "description": "Complete the game.",
+      "points": 2,
+      "trueRatio": 2,
+      "type": "win_condition",
+      "author": "MrOwnership",
+      "badgeUrl": "https://media.retroachievements.org/Badge/254297.png",
+      "numAwarded": 229,
+      "numAwardedHardcore": 214,
+      "displayOrder": 0,
+      "memAddr": "0xH00c57d=131_A:0x 00cb20=0_0xH00cb1e>0"
+    },
+    {
+      "achievementId": 229379,
+      "title": "All Letters Delivered",
+      "description": "Complete the game with all 8 letters.",
+      "points": 3,
+      "trueRatio": 4,
+      "type": "",
+      "author": "MrOwnership",
+      "badgeUrl": "https://media.retroachievements.org/Badge/254298.png",
+      "numAwarded": 190,
+      "numAwardedHardcore": 178,
+      "displayOrder": 0,
+      "memAddr": "0xH00c57d=131_0x 00cb22=8"
+    },
+    {
+      "achievementId": 229380,
+      "title": "Neither Dogs nor Spikes nor Pits",
+      "description": "Complete the game with no deaths.",
+      "points": 3,
+      "trueRatio": 6,
+      "type": "",
+      "author": "MrOwnership",
+      "badgeUrl": "https://media.retroachievements.org/Badge/254299.png",
+      "numAwarded": 109,
+      "numAwardedHardcore": 100,
+      "displayOrder": 0,
+      "memAddr": "0xH00c57d=131_0x 00cb26=0"
+    },
+    {
+      "achievementId": 229381,
+      "title": "Postie of the Year",
+      "description": "Complete the game with all 8 letters and no deaths.",
+      "points": 5,
+      "trueRatio": 12,
+      "type": "",
+      "author": "MrOwnership",
+      "badgeUrl": "https://media.retroachievements.org/Badge/254300.png",
+      "numAwarded": 98,
+      "numAwardedHardcore": 89,
+      "displayOrder": 0,
+      "memAddr": "0xH00c57d=131_0x 00cb22=8_0x 00cb26=0"
+    },
+    {
+      "achievementId": 229382,
+      "title": "The Fastest Mail Deliverer",
+      "description": "Complete the game in 50 seconds or less.",
+      "points": 5,
+      "trueRatio": 12,
+      "type": "",
+      "author": "MrOwnership",
+      "badgeUrl": "https://media.retroachievements.org/Badge/254301.png",
+      "numAwarded": 94,
+      "numAwardedHardcore": 88,
+      "displayOrder": 0,
+      "memAddr": "0xH00c57d=131_0x 00cb20=0_0xH00cb1e<=50"
+    },
+    {
+      "achievementId": 229383,
+      "title": "Postie Ninja",
+      "description": "Complete the game wall jumping at most 21 times.",
+      "points": 4,
+      "trueRatio": 9,
+      "type": "",
+      "author": "MrOwnership",
+      "badgeUrl": "https://media.retroachievements.org/Badge/254302.png",
+      "numAwarded": 109,
+      "numAwardedHardcore": 103,
+      "displayOrder": 0,
+      "memAddr": "N:0xH00cb1e=0_0x 00cb20=0.1._0xH00c57d=131_N:0xH00c0cb=16_N:0xH00c0f7=0_C:d0xH00c0f7=3_N:0xH00c0cb=16_N:0xH00c129=0_C:d0xH00c129=3_N:0xH00c0cb=16_N:0xH00c15b=0_C:d0xH00c15b=3_N:0xH00c0cb=16_N:0xH00c18d=0_C:d0xH00c18d=3_N:0xH00c0cb=16_N:0xH00c1bf=0_C:d0xH00c1bf=3_N:0xH00c0cb=16_N:0xH00c1f1=0_R:d0xH00c1f1=3.22._R:0xT00c5a7=1"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "gameId": 30725,
+  "gameTitle": "~Homebrew~ Hatsune Miku Bomb Squad",
+  "achievements": [
+    {
+      "achievementId": 461622,
+      "title": "Green Bomb Fantasy",
+      "description": "Defuse the first bomb",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "Hexadigital",
+      "badgeUrl": "https://media.retroachievements.org/Badge/522827.png",
+      "numAwarded": 968,
+      "numAwardedHardcore": 890,
+      "displayOrder": 1,
+      "memAddr": "0xX9824=33619968_d0xHcba9=1_0xHcba9=2"
+    },
+    {
+      "achievementId": 461623,
+      "title": "Ultimate Explosive",
+      "description": "Defuse 5 bombs",
+      "points": 2,
+      "trueRatio": 2,
+      "type": "progression",
+      "author": "Hexadigital",
+      "badgeUrl": "https://media.retroachievements.org/Badge/522826.png",
+      "numAwarded": 911,
+      "numAwardedHardcore": 858,
+      "displayOrder": 5,
+      "memAddr": "0xX9824=33619968_d0xHcba9=5_0xHcba9=6"
+    },
+    {
+      "achievementId": 461624,
+      "title": "Senbombzakura",
+      "description": "Defuse 10 bombs",
+      "points": 4,
+      "trueRatio": 4,
+      "type": "progression",
+      "author": "Hexadigital",
+      "badgeUrl": "https://media.retroachievements.org/Badge/522825.png",
+      "numAwarded": 843,
+      "numAwardedHardcore": 809,
+      "displayOrder": 10,
+      "memAddr": "0xX9824=33619968_d0xHcba9=10_0xHcba9=11"
+    },
+    {
+      "achievementId": 461625,
+      "title": "Smoke City Tokyo",
+      "description": "Defuse 15 bombs",
+      "points": 5,
+      "trueRatio": 5,
+      "type": "progression",
+      "author": "Hexadigital",
+      "badgeUrl": "https://media.retroachievements.org/Badge/522822.png",
+      "numAwarded": 826,
+      "numAwardedHardcore": 797,
+      "displayOrder": 15,
+      "memAddr": "0xX9824=33619968_d0xHcba9=15_0xHcba9=16"
+    },
+    {
+      "achievementId": 461627,
+      "title": "Gunpowder Mesmerizer",
+      "description": "Defuse 20 bombs",
+      "points": 5,
+      "trueRatio": 5,
+      "type": "progression",
+      "author": "Hexadigital",
+      "badgeUrl": "https://media.retroachievements.org/Badge/522821.png",
+      "numAwarded": 821,
+      "numAwardedHardcore": 793,
+      "displayOrder": 20,
+      "memAddr": "0xX9824=33619968_d0xHcba9=20_0xHcba9=21"
+    },
+    {
+      "achievementId": 461626,
+      "title": "The End of Hatsune Miku",
+      "description": "Defuse all 25 bombs and beat the game",
+      "points": 10,
+      "trueRatio": 10,
+      "type": "win_condition",
+      "author": "Hexadigital",
+      "badgeUrl": "https://media.retroachievements.org/Badge/522828.png",
+      "numAwarded": 812,
+      "numAwardedHardcore": 783,
+      "displayOrder": 25,
+      "memAddr": "0xX9824=33619968_d0xHcba9=25_0xHcba9=26"
+    }
+  ]
+}

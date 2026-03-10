@@ -1,0 +1,90 @@
+{
+  "gameId": 33577,
+  "gameTitle": "~Homebrew~ Fable: 20th Anniversary Demake",
+  "achievements": [
+    {
+      "achievementId": 517037,
+      "title": "Thank You, Stranger!",
+      "description": "Buy the gift for your sister.",
+      "points": 2,
+      "trueRatio": 2,
+      "type": "progression",
+      "author": "Xalerzyx",
+      "badgeUrl": "https://media.retroachievements.org/Badge/585096.png",
+      "numAwarded": 338,
+      "numAwardedHardcore": 330,
+      "displayOrder": 0,
+      "memAddr": "0xM00cbcc>d0xM00cbcc"
+    },
+    {
+      "achievementId": 517038,
+      "title": "A New Beginning...",
+      "description": "Finish the game.",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "win_condition",
+      "author": "Xalerzyx",
+      "badgeUrl": "https://media.retroachievements.org/Badge/585097.png",
+      "numAwarded": 338,
+      "numAwardedHardcore": 330,
+      "displayOrder": 0,
+      "memAddr": "0xM00cbce<d0xM00cbce_0xH00cb93!=0"
+    },
+    {
+      "achievementId": 517039,
+      "title": "A Good Boy!",
+      "description": "Do all four good deeds.",
+      "points": 3,
+      "trueRatio": 3,
+      "type": "missable",
+      "author": "Xalerzyx",
+      "badgeUrl": "https://media.retroachievements.org/Badge/585098.png",
+      "numAwarded": 319,
+      "numAwardedHardcore": 312,
+      "displayOrder": 0,
+      "memAddr": "N:0xH00cbbe=0_P:0xH00cbbc=0_0xH00cb9c>=2_A:d0xH00cba4_A:d0xH00cbc8_A:d0xH00cbbe_A:d0xH00cb9a_0=3_A:0xH00cba4_A:0xH00cbc8_A:0xH00cbbe_A:0xH00cb9a_M:0=4"
+    },
+    {
+      "achievementId": 517040,
+      "title": "A Bad Boy!",
+      "description": "Do all four bad deeds.",
+      "points": 3,
+      "trueRatio": 3,
+      "type": "missable",
+      "author": "Xalerzyx",
+      "badgeUrl": "https://media.retroachievements.org/Badge/585099.png",
+      "numAwarded": 303,
+      "numAwardedHardcore": 298,
+      "displayOrder": 0,
+      "memAddr": "0xH00cb9e>=3_A:d0xH00cb98_A:d0xH00cba2_A:d0xH00cbb0_A:d0xH00cbb2_0=3_A:0xH00cb98_A:0xH00cba2_A:0xH00cbb0_A:0xH00cbb2_M:0=4"
+    },
+    {
+      "achievementId": 517041,
+      "title": "I'm a Good Brother",
+      "description": "Give the gift to your sister without doing any bad deeds.",
+      "points": 3,
+      "trueRatio": 3,
+      "type": "missable",
+      "author": "Xalerzyx",
+      "badgeUrl": "https://media.retroachievements.org/Badge/585100.png",
+      "numAwarded": 309,
+      "numAwardedHardcore": 304,
+      "displayOrder": 0,
+      "memAddr": "0xH00cbaa!=0_0xH00cb9e=0_T:0xH00cb9c>=2_T:0xH00cbcc=1_T:0xM00cbce>d0xM00cbce_A:0xH00cba4_A:0xH00cbc8_A:0xH00cb9a_T:0=3_A:0xH00cb98_A:0xH00cba2_A:0xH00cbb0_A:0xH00cbb2_0=0"
+    },
+    {
+      "achievementId": 517042,
+      "title": "Don't Ask Me How I Got It",
+      "description": "Give the gift to your sister without doing any good deeds.",
+      "points": 3,
+      "trueRatio": 3,
+      "type": "missable",
+      "author": "Xalerzyx",
+      "badgeUrl": "https://media.retroachievements.org/Badge/585101.png",
+      "numAwarded": 303,
+      "numAwardedHardcore": 298,
+      "displayOrder": 0,
+      "memAddr": "0xH00cbaa!=0_0xH00cb9c=0_T:0xH00cb9e>=4_T:0xH00cbcc=1_T:0xM00cbce>d0xM00cbce_A:0xH00cb98_A:0xH00cba2_A:0xH00cbb0_A:0xH00cbb2_T:0>=3_A:0xH00cba4_A:0xH00cbc8_A:0xH00cb9a_0=0"
+    }
+  ]
+}

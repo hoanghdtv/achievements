@@ -1,0 +1,90 @@
+{
+  "gameId": 18962,
+  "gameTitle": "~Homebrew~ Opossum Country",
+  "achievements": [
+    {
+      "achievementId": 292644,
+      "title": "Where's My Tip?",
+      "description": "Deliver a bottle of water.",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "",
+      "author": "Infernox",
+      "badgeUrl": "https://media.retroachievements.org/Badge/324709.png",
+      "numAwarded": 623,
+      "numAwardedHardcore": 431,
+      "displayOrder": 0,
+      "memAddr": "0x 00c6ac=12_d0xH00cce6=0_0xH00cce6=1"
+    },
+    {
+      "achievementId": 292645,
+      "title": "Gun Safety",
+      "description": "Gain entry into the woods.",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "Infernox",
+      "badgeUrl": "https://media.retroachievements.org/Badge/324710.png",
+      "numAwarded": 663,
+      "numAwardedHardcore": 447,
+      "displayOrder": 0,
+      "memAddr": "0x 00c6ac=2_d0xH00ccef=0_0xH00ccef=1"
+    },
+    {
+      "achievementId": 292646,
+      "title": "Groovy",
+      "description": "Borrow Jed's chainsaw.",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "Infernox",
+      "badgeUrl": "https://media.retroachievements.org/Badge/324711.png",
+      "numAwarded": 659,
+      "numAwardedHardcore": 443,
+      "displayOrder": 0,
+      "memAddr": "0x 00c6ac=3_d0xH00ccec=0_0xH00ccec=1"
+    },
+    {
+      "achievementId": 292647,
+      "title": "We Just Want to Live a Quiet Life",
+      "description": "Reveal the truth behind Bill's posse.",
+      "points": 3,
+      "trueRatio": 3,
+      "type": "win_condition",
+      "author": "Infernox",
+      "badgeUrl": "https://media.retroachievements.org/Badge/324712.png",
+      "numAwarded": 631,
+      "numAwardedHardcore": 440,
+      "displayOrder": 0,
+      "memAddr": "d0x 00c6ac=16_0x 00c6ac=20"
+    },
+    {
+      "achievementId": 292648,
+      "title": "They're Literate?",
+      "description": "Read all of Bill's diary entries.",
+      "points": 2,
+      "trueRatio": 2,
+      "type": "",
+      "author": "Infernox",
+      "badgeUrl": "https://media.retroachievements.org/Badge/324713.png",
+      "numAwarded": 616,
+      "numAwardedHardcore": 437,
+      "displayOrder": 0,
+      "memAddr": "R:0x 00c6ac=7_N:0x 00c0ae>=85_N:0x 00c0ae<=101_N:d0xH00cc04=50_C:0xH00cc04=0.1._N:0x 00c0ae>=165_N:0x 00c0ae<=192_N:d0xH00cc04=46_C:0xH00cc04=0.1._N:0x 00c0ae>=101_N:0x 00c0ae<=144_N:d0xH00cc04=43_C:0xH00cc04=0.1._N:0x 00c0ae>=48_N:0x 00c0ae<=80_N:d0xH00cc04=44_C:0xH00cc04=0.1._N:0x 00c0ae>=37_N:0x 00c0ae<=53_N:d0xH00cc04=34_C:0xH00cc04=0.1._M:0=68.5."
+    },
+    {
+      "achievementId": 292649,
+      "title": "Pest Control",
+      "description": "Exterminate all the oppossum in the woods without being attacked.",
+      "points": 5,
+      "trueRatio": 6,
+      "type": "",
+      "author": "Infernox",
+      "badgeUrl": "https://media.retroachievements.org/Badge/324714.png",
+      "numAwarded": 409,
+      "numAwardedHardcore": 364,
+      "displayOrder": 0,
+      "memAddr": "R:0x 00c6ac=7_N:0x 00c6ac=2_Q:d0xH00ccef<0xH00ccef.1._O:0x 00c6ac!=5_Z:d0xH00ccfc<0xH00ccfc_R:0xH00ccfc=1.31.SN:0xK00ccff=8_N:d0x 00c6ac=5_T:d0x 00c6ac>0x 00c6acSM:0xK00ccff=8_0=68"
+    }
+  ]
+}

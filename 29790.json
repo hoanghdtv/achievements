@@ -1,0 +1,90 @@
+{
+  "gameId": 29790,
+  "gameTitle": "~Homebrew~ My Saturday Grounded",
+  "achievements": [
+    {
+      "achievementId": 429308,
+      "title": "A Fair Trade",
+      "description": "Agree to help Leo with his Spanish homework",
+      "points": 2,
+      "trueRatio": 2,
+      "type": "",
+      "author": "orchidcnr",
+      "badgeUrl": "https://media.retroachievements.org/Badge/491293.png",
+      "numAwarded": 291,
+      "numAwardedHardcore": 276,
+      "displayOrder": 0,
+      "memAddr": "d0xHcce3=1_0xHcce3=10_0xHc6ae=4"
+    },
+    {
+      "achievementId": 429309,
+      "title": "Oddly Familiar",
+      "description": "Obtain Leo's Game Boy",
+      "points": 2,
+      "trueRatio": 2,
+      "type": "",
+      "author": "orchidcnr",
+      "badgeUrl": "https://media.retroachievements.org/Badge/491294.png",
+      "numAwarded": 285,
+      "numAwardedHardcore": 274,
+      "displayOrder": 1,
+      "memAddr": "d0xH00cce4=3_0xH00cce4=10_0xH00c6ae=15"
+    },
+    {
+      "achievementId": 429310,
+      "title": "Art Is Defined by Its Limitations",
+      "description": "Stash the bucket of chalk in the treehouse",
+      "points": 2,
+      "trueRatio": 2,
+      "type": "",
+      "author": "orchidcnr",
+      "badgeUrl": "https://media.retroachievements.org/Badge/491297.png",
+      "numAwarded": 284,
+      "numAwardedHardcore": 272,
+      "displayOrder": 2,
+      "memAddr": "d0xHcce6=8_0xHcce6=10_0xHc6ae=10"
+    },
+    {
+      "achievementId": 429307,
+      "title": "...It Smells Like Him...",
+      "description": "Stash Leo's sleeping bag in the treehouse",
+      "points": 2,
+      "trueRatio": 2,
+      "type": "",
+      "author": "orchidcnr",
+      "badgeUrl": "https://media.retroachievements.org/Badge/491301.png",
+      "numAwarded": 281,
+      "numAwardedHardcore": 270,
+      "displayOrder": 3,
+      "memAddr": "d0xHcce5=11_0xHcce5=12_p0xHc6ae=10_0xHc6ae=8"
+    },
+    {
+      "achievementId": 429312,
+      "title": "It Was Intense Just Getting to Be There Next to You",
+      "description": "Finish the game",
+      "points": 3,
+      "trueRatio": 3,
+      "type": "win_condition",
+      "author": "orchidcnr",
+      "badgeUrl": "https://media.retroachievements.org/Badge/491302.png",
+      "numAwarded": 283,
+      "numAwardedHardcore": 271,
+      "displayOrder": 4,
+      "memAddr": "p0xHc6ae=0_0xHc6ae=12.146._R:0xHc6ae=3"
+    },
+    {
+      "achievementId": 429311,
+      "title": "Pull a Joker Card on You",
+      "description": "Startle Leo by getting too close to him",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "",
+      "author": "orchidcnr",
+      "badgeUrl": "https://media.retroachievements.org/Badge/491303.png",
+      "numAwarded": 289,
+      "numAwardedHardcore": 274,
+      "displayOrder": 5,
+      "memAddr": "p0xH00c0df=1_0xH00c0df=0_d0xQ00c71b=1_0xQ00c71b=0_0xH00c6ae=4_0xH00cbfa=10_O:0xH00cbf9=11_0xH00cbf9=10"
+    }
+  ]
+}

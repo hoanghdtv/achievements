@@ -1,0 +1,90 @@
+{
+  "gameId": 3284,
+  "gameTitle": "Hysteria Project",
+  "achievements": [
+    {
+      "achievementId": 464858,
+      "title": "Hunter and Prey",
+      "description": "Escape the shed.",
+      "points": 2,
+      "trueRatio": 2,
+      "type": "progression",
+      "author": "SporyTike",
+      "badgeUrl": "https://media.retroachievements.org/Badge/526245.png",
+      "numAwarded": 417,
+      "numAwardedHardcore": 369,
+      "displayOrder": 1,
+      "memAddr": "d0xX0090e780=1_0xX0090e780=2"
+    },
+    {
+      "achievementId": 464859,
+      "title": "Life On The Line",
+      "description": "Pass through the tripwire traps.",
+      "points": 3,
+      "trueRatio": 3,
+      "type": "progression",
+      "author": "SporyTike",
+      "badgeUrl": "https://media.retroachievements.org/Badge/526246.png",
+      "numAwarded": 401,
+      "numAwardedHardcore": 360,
+      "displayOrder": 2,
+      "memAddr": "d0xX0090e780=4_0xX0090e780=5"
+    },
+    {
+      "achievementId": 464860,
+      "title": "Holy Path",
+      "description": "Use some symbols to find the path through the woods.",
+      "points": 3,
+      "trueRatio": 3,
+      "type": "progression",
+      "author": "SporyTike",
+      "badgeUrl": "https://media.retroachievements.org/Badge/526247.png",
+      "numAwarded": 380,
+      "numAwardedHardcore": 347,
+      "displayOrder": 3,
+      "memAddr": "d0xX0090e780=6_0xX0090e780=7"
+    },
+    {
+      "achievementId": 464861,
+      "title": "Let's Try One More Time",
+      "description": "Escape the shed once more.",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "SporyTike",
+      "badgeUrl": "https://media.retroachievements.org/Badge/526248.png",
+      "numAwarded": 372,
+      "numAwardedHardcore": 340,
+      "displayOrder": 4,
+      "memAddr": "d0xX0090e780=7_0xX0090e780=8"
+    },
+    {
+      "achievementId": 464862,
+      "title": "Unexpected Escape",
+      "description": "Escape the killer for now...",
+      "points": 5,
+      "trueRatio": 6,
+      "type": "progression",
+      "author": "SporyTike",
+      "badgeUrl": "https://media.retroachievements.org/Badge/526249.png",
+      "numAwarded": 361,
+      "numAwardedHardcore": 328,
+      "displayOrder": 5,
+      "memAddr": "0xX0090e780=9_d0xX0090e784=0_0xX0090e784=1"
+    },
+    {
+      "achievementId": 464863,
+      "title": "Story Behind The Scenes",
+      "description": "Read all information in Sergeant Coyle's office.",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "",
+      "author": "SporyTike",
+      "badgeUrl": "https://media.retroachievements.org/Badge/526250.png",
+      "numAwarded": 350,
+      "numAwardedHardcore": 319,
+      "displayOrder": 6,
+      "memAddr": "I:0xX00931694&33554431_N:0xX0000016c=14_I:0xX00931694&33554431_N:0xX00000030=2_I:0xX00931694&33554431_N:d0xX0000001c=10_I:0xX00931694&33554431_C:0xX0000001c=11.1._I:0xX00931694&33554431_N:0xX0000016c=14_I:0xX00931694&33554431_N:0xX00000030=3_I:0xX00931694&33554431_N:d0xX0000001c=10_I:0xX00931694&33554431_C:0xX0000001c=11.1._I:0xX00931694&33554431_N:0xX0000016c=14_I:0xX00931694&33554431_N:0xX00000030=4_I:0xX00931694&33554431_N:d0xX0000001c=10_I:0xX00931694&33554431_C:0xX0000001c=11.1._I:0xX00931694&33554431_N:0xX0000016c=14_I:0xX00931694&33554431_N:0xX00000030=5_I:0xX00931694&33554431_N:d0xX0000001c=10_I:0xX00931694&33554431_C:0xX0000001c=11.1._I:0xX00931694&33554431_N:0xX0000016c=14_I:0xX00931694&33554431_N:0xX00000030=6_I:0xX00931694&33554431_N:d0xX0000001c=10_I:0xX00931694&33554431_C:0xX0000001c=11.1._I:0xX00931694&33554431_N:0xX0000016c=14_I:0xX00931694&33554431_N:0xX00000030=7_I:0xX00931694&33554431_N:d0xX0000001c=10_I:0xX00931694&33554431_C:0xX0000001c=11.1._I:0xX00931694&33554431_N:0xX0000016c=14_I:0xX00931694&33554431_N:0xX00000030=8_I:0xX00931694&33554431_N:d0xX0000001c=10_I:0xX00931694&33554431_C:0xX0000001c=11.1._I:0xX00931694&33554431_N:0xX0000016c=14_I:0xX00931694&33554431_N:0xX00000030=10_I:0xX00931694&33554431_N:0xX00000034=0_I:0xX00931694&33554431_N:d0xX0000001c=10_I:0xX00931694&33554431_C:0xX0000001c=11.1._I:0xX00931694&33554431_N:0xX0000016c=14_I:0xX00931694&33554431_N:0xX00000030=10_I:0xX00931694&33554431_N:0xX00000034=1_I:0xX00931694&33554431_N:d0xX0000001c=10_I:0xX00931694&33554431_C:0xX0000001c=11.1._I:0xX00931694&33554431_N:0xX0000016c=14_I:0xX00931694&33554431_N:0xX00000030=13_I:0xX00931694&33554431_N:d0xX0000001c=10_I:0xX00931694&33554431_C:0xX0000001c=11.1._M:0!=0.10."
+    }
+  ]
+}

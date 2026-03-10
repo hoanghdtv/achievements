@@ -1,0 +1,90 @@
+{
+  "gameId": 27302,
+  "gameTitle": "~Homebrew~ Geometry Dash",
+  "achievements": [
+    {
+      "achievementId": 371746,
+      "title": "Stereo Bump",
+      "description": "Complete 'Stereo Madness'",
+      "points": 3,
+      "trueRatio": 4,
+      "type": "progression",
+      "author": "Brylefi",
+      "badgeUrl": "https://media.retroachievements.org/Badge/417942.png",
+      "numAwarded": 335,
+      "numAwardedHardcore": 230,
+      "displayOrder": 0,
+      "memAddr": "I:0xX0114a78c&33554431_I:0xX0000001c&33554431_I:0xX00000084&33554431_I:0xX00000008&33554431_fF0000003c>=f27900.0_I:0xX0114a78c&33554431_I:0xX0000001c&33554431_I:0xX00000084&33554431_I:0xX00000008&33554431_dfF0000003c<f27900.0_I:0xX01184dc0&33554431_0xX0000001c=1072693248_I:0xX0114a78c&33554431_I:0xX0000001c&33554431_0xX00000084!=0"
+    },
+    {
+      "achievementId": 371747,
+      "title": "On My Way",
+      "description": "Complete 'Back On Track'",
+      "points": 4,
+      "trueRatio": 6,
+      "type": "progression",
+      "author": "Brylefi",
+      "badgeUrl": "https://media.retroachievements.org/Badge/417943.png",
+      "numAwarded": 256,
+      "numAwardedHardcore": 186,
+      "displayOrder": 0,
+      "memAddr": "I:0xX0114a78c&33554431_I:0xX0000001c&33554431_I:0xX00000084&33554431_I:0xX00000008&33554431_fF0000003c>=f26600.0_I:0xX0114a78c&33554431_I:0xX0000001c&33554431_I:0xX00000084&33554431_I:0xX00000008&33554431_dfF0000003c<f26600.0_I:0xX01184dc0&33554431_0xX0000001c=1073741824_I:0xX0114a78c&33554431_I:0xX0000001c&33554431_0xX00000084!=0"
+    },
+    {
+      "achievementId": 371748,
+      "title": "Polarbear",
+      "description": "Complete 'Polargeist'",
+      "points": 10,
+      "trueRatio": 21,
+      "type": "progression",
+      "author": "Brylefi",
+      "badgeUrl": "https://media.retroachievements.org/Badge/417944.png",
+      "numAwarded": 154,
+      "numAwardedHardcore": 115,
+      "displayOrder": 0,
+      "memAddr": "I:0xX0114a78c&33554431_I:0xX0000001c&33554431_I:0xX00000084&33554431_I:0xX00000008&33554431_fF0000003c>=f29500.0_I:0xX0114a78c&33554431_I:0xX0000001c&33554431_I:0xX00000084&33554431_I:0xX00000008&33554431_dfF0000003c<f29500.0_I:0xX01184dc0&33554431_0xX0000001c=1074266112_I:0xX0114a78c&33554431_I:0xX0000001c&33554431_0xX00000084!=0"
+    },
+    {
+      "achievementId": 371749,
+      "title": "Dehydrated",
+      "description": "Complete 'Dry Out'",
+      "points": 10,
+      "trueRatio": 26,
+      "type": "progression",
+      "author": "Brylefi",
+      "badgeUrl": "https://media.retroachievements.org/Badge/417945.png",
+      "numAwarded": 121,
+      "numAwardedHardcore": 87,
+      "displayOrder": 0,
+      "memAddr": "I:0xX0114a78c&33554431_I:0xX0000001c&33554431_I:0xX00000084&33554431_I:0xX00000008&33554431_fF0000003c>=f26900.0_I:0xX0114a78c&33554431_I:0xX0000001c&33554431_I:0xX00000084&33554431_I:0xX00000008&33554431_dfF0000003c<f26900.0_I:0xX01184dc0&33554431_0xX0000001c=1074790400_I:0xX0114a78c&33554431_I:0xX0000001c&33554431_0xX00000084!=0"
+    },
+    {
+      "achievementId": 371750,
+      "title": "All Your Base...",
+      "description": "Complete 'Base After Base' (Spam pause at 45% if you keep dying there)",
+      "points": 25,
+      "trueRatio": 87,
+      "type": "progression",
+      "author": "Brylefi",
+      "badgeUrl": "https://media.retroachievements.org/Badge/417946.png",
+      "numAwarded": 89,
+      "numAwardedHardcore": 62,
+      "displayOrder": 0,
+      "memAddr": "I:0xX0114a78c&33554431_I:0xX0000001c&33554431_I:0xX00000084&33554431_I:0xX00000008&33554431_fF0000003c>=f27400.0_I:0xX0114a78c&33554431_I:0xX0000001c&33554431_I:0xX00000084&33554431_I:0xX00000008&33554431_dfF0000003c<f27400.0_I:0xX01184dc0&33554431_0xX0000001c=1075052544_I:0xX0114a78c&33554431_I:0xX0000001c&33554431_0xX00000084!=0"
+    },
+    {
+      "achievementId": 371751,
+      "title": "Hold On",
+      "description": "Complete 'Cant Let Go' (Use PPSSPP standalone if you keep dying)",
+      "points": 50,
+      "trueRatio": 179,
+      "type": "progression",
+      "author": "Brylefi",
+      "badgeUrl": "https://media.retroachievements.org/Badge/417947.png",
+      "numAwarded": 85,
+      "numAwardedHardcore": 60,
+      "displayOrder": 0,
+      "memAddr": "I:0xX0114a78c&33554431_I:0xX0000001c&33554431_I:0xX00000084&33554431_I:0xX00000008&33554431_fF0000003c>=f26500.0_I:0xX0114a78c&33554431_I:0xX0000001c&33554431_I:0xX00000084&33554431_I:0xX00000008&33554431_dfF0000003c<f26500.0_I:0xX01184dc0&33554431_0xX0000001c=1075314688_I:0xX0114a78c&33554431_I:0xX0000001c&33554431_0xX00000084!=0"
+    }
+  ]
+}

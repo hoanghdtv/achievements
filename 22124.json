@@ -1,0 +1,90 @@
+{
+  "gameId": 22124,
+  "gameTitle": "~Homebrew~ Blinky's Revenge",
+  "achievements": [
+    {
+      "achievementId": 490660,
+      "title": "Don't Die",
+      "description": "Clear level 3",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "Tayadaoc",
+      "badgeUrl": "https://media.retroachievements.org/Badge/555820.png",
+      "numAwarded": 460,
+      "numAwardedHardcore": 414,
+      "displayOrder": 1,
+      "memAddr": "0xH00cce7=3_0xH00cce6=1_d0xH00cce6=0_P:0xH00c6e3=0"
+    },
+    {
+      "achievementId": 490661,
+      "title": "Getting Worse",
+      "description": "Clear level 6",
+      "points": 3,
+      "trueRatio": 3,
+      "type": "progression",
+      "author": "Tayadaoc",
+      "badgeUrl": "https://media.retroachievements.org/Badge/555821.png",
+      "numAwarded": 407,
+      "numAwardedHardcore": 367,
+      "displayOrder": 2,
+      "memAddr": "0xH00cce7=6_0xH00cce6=1_d0xH00cce6=0_P:0xH00c6e3=0"
+    },
+    {
+      "achievementId": 490662,
+      "title": "GB Studio 2.0",
+      "description": "Clear level 9",
+      "points": 5,
+      "trueRatio": 6,
+      "type": "progression",
+      "author": "Tayadaoc",
+      "badgeUrl": "https://media.retroachievements.org/Badge/555822.png",
+      "numAwarded": 377,
+      "numAwardedHardcore": 337,
+      "displayOrder": 3,
+      "memAddr": "0xH00cce7=9_0xH00cce6=1_d0xH00cce6=0_P:0xH00c6e3=0"
+    },
+    {
+      "achievementId": 490663,
+      "title": "I Can't Believe",
+      "description": "Clear level 12",
+      "points": 5,
+      "trueRatio": 6,
+      "type": "win_condition",
+      "author": "Tayadaoc",
+      "badgeUrl": "https://media.retroachievements.org/Badge/555823.png",
+      "numAwarded": 369,
+      "numAwardedHardcore": 328,
+      "displayOrder": 4,
+      "memAddr": "0xH00cce7=12_0xH00cce6=1_d0xH00cce6=0_P:0xH00c6e3=0"
+    },
+    {
+      "achievementId": 490665,
+      "title": "Relentless",
+      "description": "Beat levels 1-9 without using a continue",
+      "points": 5,
+      "trueRatio": 6,
+      "type": "",
+      "author": "Tayadaoc",
+      "badgeUrl": "https://media.retroachievements.org/Badge/555825.png",
+      "numAwarded": 365,
+      "numAwardedHardcore": 325,
+      "displayOrder": 5,
+      "memAddr": "0xH00cceb=3_0xH00cce7=9_0xH00cce6=1_d0xH00cce6=0"
+    },
+    {
+      "achievementId": 545252,
+      "title": "Fruitful Venture",
+      "description": "Get an extra life",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "",
+      "author": "Layton",
+      "badgeUrl": "https://media.retroachievements.org/Badge/619994.png",
+      "numAwarded": 259,
+      "numAwardedHardcore": 236,
+      "displayOrder": 6,
+      "memAddr": "0xH00cceb>d0xH00cceb_0xH00cce7>0_0xH00cce7<13_0x 00c6ae!=2_0x 00c6ae!=3_0x 00c6ae<15"
+    }
+  ]
+}

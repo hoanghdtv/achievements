@@ -1,0 +1,90 @@
+{
+  "gameId": 20509,
+  "gameTitle": "The Haunted Zone",
+  "achievements": [
+    {
+      "achievementId": 555979,
+      "title": "Now We'll Trade Places, Okay?",
+      "description": "Attempt to fight off the strange woman...",
+      "points": 0,
+      "trueRatio": 0,
+      "type": "win_condition",
+      "author": "solidification",
+      "badgeUrl": "https://media.retroachievements.org/Badge/631451.png",
+      "numAwarded": 246,
+      "numAwardedHardcore": 227,
+      "displayOrder": 0,
+      "memAddr": "O:0x 00c509ce=36095_O:0x 00ad3262=5_0xX01c542d8=359620_p0x 0093d546=17184_d0x 0093d54a=17056_0x 0093d546=0x 0093d54a_0x 0093d546=16792"
+    },
+    {
+      "achievementId": 555980,
+      "title": "Don't Turn Around",
+      "description": "Just leave...",
+      "points": 0,
+      "trueRatio": 0,
+      "type": "win_condition",
+      "author": "solidification",
+      "badgeUrl": "https://media.retroachievements.org/Badge/631452.png",
+      "numAwarded": 245,
+      "numAwardedHardcore": 225,
+      "displayOrder": 1,
+      "memAddr": "O:0x 00c509ce=36095_O:0x 00ad3262=5_0xX01c542d8=359620_p0x 0093d546=17184_d0x 0093d54a=17152_0x 0093d546=0x 0093d54a_0x 0093d546=16792"
+    },
+    {
+      "achievementId": 555981,
+      "title": "No Refunds, No Returns",
+      "description": "Don't share important information...",
+      "points": 0,
+      "trueRatio": 0,
+      "type": "win_condition",
+      "author": "solidification",
+      "badgeUrl": "https://media.retroachievements.org/Badge/631453.png",
+      "numAwarded": 237,
+      "numAwardedHardcore": 220,
+      "displayOrder": 2,
+      "memAddr": "O:0x 00c509ce=49151_O:0x 00ad3262=7_0xX01c542d8=519420_p0x 0093d546=17224_d0x 0093d54a=17088_0x 0093d546=0x 0093d54a_0x 0093d546=16792"
+    },
+    {
+      "achievementId": 555982,
+      "title": "What's Wrong?",
+      "description": "Take a picture. Accidentally...",
+      "points": 0,
+      "trueRatio": 0,
+      "type": "win_condition",
+      "author": "solidification",
+      "badgeUrl": "https://media.retroachievements.org/Badge/631454.png",
+      "numAwarded": 235,
+      "numAwardedHardcore": 220,
+      "displayOrder": 3,
+      "memAddr": "O:0x 00c509ce=49151_O:0x 00ad3262=7_0xX01c542d8=519420_p0x 0093d546=17235_d0x 0093d54a=16972_0x 0093d546=0x 0093d54a_0x 0093d546=16792"
+    },
+    {
+      "achievementId": 555983,
+      "title": "Please Don't Leave Me Here, Mister",
+      "description": "Investigate the abandoned apartment one last time...",
+      "points": 0,
+      "trueRatio": 0,
+      "type": "win_condition",
+      "author": "solidification",
+      "badgeUrl": "https://media.retroachievements.org/Badge/631455.png",
+      "numAwarded": 235,
+      "numAwardedHardcore": 219,
+      "displayOrder": 4,
+      "memAddr": "O:0x 00c509ce=64255_O:0x 00ad3262=4_0xX01c542d8=532956_p0x 0093d546=17184_d0x 0093d54a=16960_0x 0093d546=0x 0093d54a_0x 0093d546=16792"
+    },
+    {
+      "achievementId": 555984,
+      "title": "Come On... Let's Play",
+      "description": "Just ignore the water...",
+      "points": 0,
+      "trueRatio": 0,
+      "type": "win_condition",
+      "author": "solidification",
+      "badgeUrl": "https://media.retroachievements.org/Badge/631456.png",
+      "numAwarded": 232,
+      "numAwardedHardcore": 218,
+      "displayOrder": 5,
+      "memAddr": "O:0x 00c509ce=64255_O:0x 00ad3262=4_0xX01c542d8=532956_p0x 0093d546=0_d0x 0093d54a=17024_0x 0093d546=0x 0093d54a_0x 0093d546=16792"
+    }
+  ]
+}

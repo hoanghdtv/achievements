@@ -1,0 +1,90 @@
+{
+  "gameId": 25801,
+  "gameTitle": "~Homebrew~ Fishing the Deep",
+  "achievements": [
+    {
+      "achievementId": 357296,
+      "title": "Starter Fisher",
+      "description": "Get your first haul",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "Sines",
+      "badgeUrl": "https://media.retroachievements.org/Badge/402572.png",
+      "numAwarded": 187,
+      "numAwardedHardcore": 182,
+      "displayOrder": 0,
+      "memAddr": "d0xX0c252c=0_0xX0c278c=15_0xX0c252c>d0xX0c252c_0xX0c2530!=0"
+    },
+    {
+      "achievementId": 357297,
+      "title": "Big Haul",
+      "description": "Get a haul of at least 6 fishes at once",
+      "points": 3,
+      "trueRatio": 4,
+      "type": "",
+      "author": "Sines",
+      "badgeUrl": "https://media.retroachievements.org/Badge/402573.png",
+      "numAwarded": 183,
+      "numAwardedHardcore": 178,
+      "displayOrder": 0,
+      "memAddr": "0xX0c2530!=0_0xX0c278c=15_A:3000=0_d0xX0c252c<=0xX0c252c"
+    },
+    {
+      "achievementId": 357298,
+      "title": "Patient Seamen",
+      "description": "Fish successfully 10 times without moving your boat",
+      "points": 3,
+      "trueRatio": 4,
+      "type": "",
+      "author": "Sines",
+      "badgeUrl": "https://media.retroachievements.org/Badge/402574.png",
+      "numAwarded": 181,
+      "numAwardedHardcore": 176,
+      "displayOrder": 0,
+      "memAddr": "0xX0c2530!=0_0xX0c278c=15_N:0xX0c278c=15_M:0xX0c252c>d0xX0c252c.10._R:0xH0c3f02!=d0xH0c3f02"
+    },
+    {
+      "achievementId": 357299,
+      "title": "Shallow Pond",
+      "description": "Reach a score of 5000 or more without moving down the screen [From a fresh game start]",
+      "points": 2,
+      "trueRatio": 3,
+      "type": "",
+      "author": "Sines",
+      "badgeUrl": "https://media.retroachievements.org/Badge/402575.png",
+      "numAwarded": 165,
+      "numAwardedHardcore": 160,
+      "displayOrder": 0,
+      "memAddr": "0xX0c2530!=0_0xX0c278c=15_N:0xX0c252c=0_0xX0c278c=15.1._T:0xX0c252c>=5000_Z:0xX0c278c=0_P:0x 0c3cee>0.1."
+    },
+    {
+      "achievementId": 357300,
+      "title": "Bass Hunter",
+      "description": "Reach a score of 50 000 or more",
+      "points": 3,
+      "trueRatio": 4,
+      "type": "progression",
+      "author": "Sines",
+      "badgeUrl": "https://media.retroachievements.org/Badge/402576.png",
+      "numAwarded": 173,
+      "numAwardedHardcore": 168,
+      "displayOrder": 0,
+      "memAddr": "0xX0c2530!=0_0xX0c278c=15_0xX0c252c>=50000_d0xX0c252c<50000"
+    },
+    {
+      "achievementId": 357301,
+      "title": "Expert Wrangler",
+      "description": "Reach a score of 100 000 or more",
+      "points": 3,
+      "trueRatio": 4,
+      "type": "win_condition",
+      "author": "Sines",
+      "badgeUrl": "https://media.retroachievements.org/Badge/402577.png",
+      "numAwarded": 170,
+      "numAwardedHardcore": 165,
+      "displayOrder": 0,
+      "memAddr": "0xX0c2530!=0_0xX0c278c=15_0xX0c252c>=100000_d0xX0c252c<100000"
+    }
+  ]
+}

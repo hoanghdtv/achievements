@@ -1,0 +1,90 @@
+{
+  "gameId": 24391,
+  "gameTitle": "~Homebrew~ Retro Quiz Tower: JAM Edition",
+  "achievements": [
+    {
+      "achievementId": 320679,
+      "title": "I Just Flip The Switch",
+      "description": "Flip the switch to unlock the gate",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "voiceofautumn",
+      "badgeUrl": "https://media.retroachievements.org/Badge/357051.png",
+      "numAwarded": 366,
+      "numAwardedHardcore": 325,
+      "displayOrder": 0,
+      "memAddr": "d0xH00cbcd=0_0xH00cbcd=1_0xH00cbb3!=0"
+    },
+    {
+      "achievementId": 320680,
+      "title": "Pickpocket",
+      "description": "Find the Gold Key",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "progression",
+      "author": "voiceofautumn",
+      "badgeUrl": "https://media.retroachievements.org/Badge/357052.png",
+      "numAwarded": 357,
+      "numAwardedHardcore": 316,
+      "displayOrder": 0,
+      "memAddr": "d0xH00cbd9=0_0xH00cbd9=1_0xH00cbb3!=0"
+    },
+    {
+      "achievementId": 320681,
+      "title": "I Got My E-Tank In Reserve",
+      "description": "Find all healing potions",
+      "points": 1,
+      "trueRatio": 1,
+      "type": "",
+      "author": "voiceofautumn",
+      "badgeUrl": "https://media.retroachievements.org/Badge/357053.png",
+      "numAwarded": 334,
+      "numAwardedHardcore": 300,
+      "displayOrder": 0,
+      "memAddr": "0xH00cba7=1_0xH00cbcb=1_0xH00cbd1=1"
+    },
+    {
+      "achievementId": 320682,
+      "title": "King Of Games",
+      "description": "Defeat all of the monsters",
+      "points": 3,
+      "trueRatio": 3,
+      "type": "missable",
+      "author": "voiceofautumn",
+      "badgeUrl": "https://media.retroachievements.org/Badge/357054.png",
+      "numAwarded": 323,
+      "numAwardedHardcore": 289,
+      "displayOrder": 0,
+      "memAddr": "A:d0xH00cbb9_A:d0xH00cbc5_A:d0xH00cbc7_A:d0xH00cbc9_A:d0xH00cbd7_A:d0xH00cbdb_d0xH00cbd5=6_A:0xH00cbb9_A:0xH00cbc5_A:0xH00cbc7_A:0xH00cbc9_A:0xH00cbd7_A:0xH00cbdb_0xH00cbd5=7"
+    },
+    {
+      "achievementId": 320683,
+      "title": "Out For The Count",
+      "description": "Defeat Le Compte Répétée",
+      "points": 5,
+      "trueRatio": 6,
+      "type": "win_condition",
+      "author": "voiceofautumn",
+      "badgeUrl": "https://media.retroachievements.org/Badge/357055.png",
+      "numAwarded": 316,
+      "numAwardedHardcore": 280,
+      "displayOrder": 0,
+      "memAddr": "0xH00c116=152_d0xH00cbb5=1_0xH00cbb5=0"
+    },
+    {
+      "achievementId": 320684,
+      "title": "4 Heart Run Challenge",
+      "description": "Beat the game without ever losing a life",
+      "points": 10,
+      "trueRatio": 14,
+      "type": "missable",
+      "author": "voiceofautumn",
+      "badgeUrl": "https://media.retroachievements.org/Badge/357056.png",
+      "numAwarded": 284,
+      "numAwardedHardcore": 258,
+      "displayOrder": 0,
+      "memAddr": "T:0xH00c116=152_T:d0xH00cbb5=1_T:0xH00cbb5=0_N:d0xH00cbb3=4_Z:0xH00cbb3=3_N:0xH00cbb9=0_N:0xH00cbd7=0_N:0xH00cbdb=0_0xH00c116=0.1."
+    }
+  ]
+}

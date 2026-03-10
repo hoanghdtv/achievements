@@ -1,0 +1,90 @@
+{
+  "gameId": 28383,
+  "gameTitle": "~Homebrew~ Remote Control Shuriken",
+  "achievements": [
+    {
+      "achievementId": 395086,
+      "title": "The Moldorm Wannabe",
+      "description": "Defeat Monty (the Python).",
+      "points": 5,
+      "trueRatio": 8,
+      "type": "progression",
+      "author": "LadyNadia",
+      "badgeUrl": "https://media.retroachievements.org/Badge/446570.png",
+      "numAwarded": 136,
+      "numAwardedHardcore": 129,
+      "displayOrder": 0,
+      "memAddr": "0xH00c311=1_0xH00c311=d0xH00c311_d0xH00c2eb=1_0xH00c2eb=0"
+    },
+    {
+      "achievementId": 395087,
+      "title": "A Frog and his Loyal Fly",
+      "description": "Defeat Robert & Sir Galahad.",
+      "points": 5,
+      "trueRatio": 9,
+      "type": "progression",
+      "author": "LadyNadia",
+      "badgeUrl": "https://media.retroachievements.org/Badge/446571.png",
+      "numAwarded": 121,
+      "numAwardedHardcore": 115,
+      "displayOrder": 0,
+      "memAddr": "0xH00c311=2_0xH00c311=d0xH00c311_d0xH00c104=1_0xH00c104=0"
+    },
+    {
+      "achievementId": 395088,
+      "title": "A Sight Not for Sore Eyes",
+      "description": "Defeat Eyesore.",
+      "points": 10,
+      "trueRatio": 19,
+      "type": "progression",
+      "author": "LadyNadia",
+      "badgeUrl": "https://media.retroachievements.org/Badge/446572.png",
+      "numAwarded": 109,
+      "numAwardedHardcore": 103,
+      "displayOrder": 0,
+      "memAddr": "0xH00c311=3_0xH00c311=d0xH00c311_d0xH00c0a4=1_0xH00c0a4=0"
+    },
+    {
+      "achievementId": 395172,
+      "title": "Slithering Away",
+      "description": "Defeat Monty (the Python) while doing damage at least once before swapping back to the Ninja each time and without failing",
+      "points": 5,
+      "trueRatio": 9,
+      "type": "",
+      "author": "LadyNadia",
+      "badgeUrl": "https://media.retroachievements.org/Badge/446729.png",
+      "numAwarded": 112,
+      "numAwardedHardcore": 106,
+      "displayOrder": 0,
+      "memAddr": "N:d0xH00c311=4_0xH00c311=1.1._0xH00c311=1_0xH00c311=d0xH00c311_d0xH00c2eb>0_T:0xH00c2eb=0_N:0xH00c311=1_N:0xH00c2eb=6_N:d0xH00c304=0_R:0xH00c304=1_N:0xH00c311=1_N:0xH00c2eb=5_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=1_N:0xH00c2eb=4_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=1_N:0xH00c2eb=3_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=1_N:0xH00c2eb=2_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=1_N:0xH00c2eb=1_N:d0xH00c304=0_R:0xH00c304=1.2._N:d0xH00c2eb!=0_R:0xH00c2eb>d0xH00c2eb"
+    },
+    {
+      "achievementId": 395174,
+      "title": "Buzzed Off",
+      "description": "Defeat Robert & Sir Galahad while doing damage at least once before swapping back to the Ninja each time and without failing",
+      "points": 10,
+      "trueRatio": 20,
+      "type": "",
+      "author": "LadyNadia",
+      "badgeUrl": "https://media.retroachievements.org/Badge/446733.png",
+      "numAwarded": 106,
+      "numAwardedHardcore": 101,
+      "displayOrder": 0,
+      "memAddr": "N:d0xH00c311=5_0xH00c311=2.1._0xH00c311=2_0xH00c311=d0xH00c311_d0xH00c104>0_T:0xH00c104=0_N:d0xH00c104!=0_R:0xH00c104>d0xH00c104_N:0xH00c311=2_N:0xH00c104=8_N:d0xH00c304=0_R:0xH00c304=1_N:0xH00c311=2_N:0xH00c104=7_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=2_N:0xH00c104=6_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=2_N:0xH00c104=5_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=2_N:0xH00c104=4_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=2_N:0xH00c104=3_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=2_N:0xH00c104=2_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=2_N:0xH00c104=1_N:d0xH00c304=0_R:0xH00c304=1.2."
+    },
+    {
+      "achievementId": 395175,
+      "title": "Poked the Eye Out",
+      "description": "Defeat Eyesore while doing damage at least once before swapping back to the Ninja each time and without failing",
+      "points": 10,
+      "trueRatio": 21,
+      "type": "",
+      "author": "LadyNadia",
+      "badgeUrl": "https://media.retroachievements.org/Badge/446734.png",
+      "numAwarded": 98,
+      "numAwardedHardcore": 93,
+      "displayOrder": 0,
+      "memAddr": "N:d0xH00c311=6_0xH00c311=3.1._0xH00c311=3_0xH00c311=d0xH00c311_d0xH00c0a4>0_T:0xH00c0a4=0_N:d0xH00c0a4!=0_R:0xH00c0a4>d0xH00c0a4_N:0xH00c311=3_N:0xH00c0a4=12_N:d0xH00c304=0_R:0xH00c304=1_N:0xH00c311=3_N:0xH00c0a4=11_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=3_N:0xH00c0a4=10_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=3_N:0xH00c0a4=9_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=3_N:0xH00c0a4=8_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=3_N:0xH00c0a4=7_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=3_N:0xH00c0a4=6_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=3_N:0xH00c0a4=5_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=3_N:0xH00c0a4=4_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=3_N:0xH00c0a4=3_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=3_N:0xH00c0a4=2_N:d0xH00c304=0_R:0xH00c304=1.2._N:0xH00c311=3_N:0xH00c0a4=1_N:d0xH00c304=0_R:0xH00c304=1.2."
+    }
+  ]
+}

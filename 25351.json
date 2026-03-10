@@ -1,0 +1,90 @@
+{
+  "gameId": 25351,
+  "gameTitle": "~Homebrew~ The Search Master: Metal Gear Solid Edition",
+  "achievements": [
+    {
+      "achievementId": 344466,
+      "title": "Getting The Hang Of Things",
+      "description": "Beat the initial high score of 5000 points. Tying does not count.",
+      "points": 3,
+      "trueRatio": 4,
+      "type": "",
+      "author": "lonegraywolf2000",
+      "badgeUrl": "https://media.retroachievements.org/Badge/389195.png",
+      "numAwarded": 223,
+      "numAwardedHardcore": 211,
+      "displayOrder": 0,
+      "memAddr": "0x 1d002e!=0_0x 1d8ac8=192_d0xX1cf104=5000_0xX1cf104>5000"
+    },
+    {
+      "achievementId": 344467,
+      "title": "Sharpshooter",
+      "description": "Get a score of 15000 or higher at the end.",
+      "points": 5,
+      "trueRatio": 7,
+      "type": "",
+      "author": "lonegraywolf2000",
+      "badgeUrl": "https://media.retroachievements.org/Badge/389196.png",
+      "numAwarded": 215,
+      "numAwardedHardcore": 203,
+      "displayOrder": 0,
+      "memAddr": "0x 1d002e!=0_0x 1d8ac8=192_d0xX1cf104<15000_0xX1cf104>=15000"
+    },
+    {
+      "achievementId": 344468,
+      "title": "Healthy, Wise, Just Need Wealth",
+      "description": "Finish a game without having lost any life. Game overs can count.",
+      "points": 5,
+      "trueRatio": 7,
+      "type": "",
+      "author": "lonegraywolf2000",
+      "badgeUrl": "https://media.retroachievements.org/Badge/389197.png",
+      "numAwarded": 217,
+      "numAwardedHardcore": 205,
+      "displayOrder": 0,
+      "memAddr": "0x 1d002e!=0_0x 1d8ac8=192_P:0x 1d8ae8=8384.1.SR:0xI1d002e=14393"
+    },
+    {
+      "achievementId": 344469,
+      "title": "No Time To Waste",
+      "description": "Finish a game taking 70 seconds or less.",
+      "points": 10,
+      "trueRatio": 14,
+      "type": "",
+      "author": "lonegraywolf2000",
+      "badgeUrl": "https://media.retroachievements.org/Badge/389198.png",
+      "numAwarded": 204,
+      "numAwardedHardcore": 194,
+      "displayOrder": 0,
+      "memAddr": "0x 1d002e!=0_0xH1cfe88=48_d0xH1cfe88=47_0xH1d002e>=50"
+    },
+    {
+      "achievementId": 344470,
+      "title": "Infinite Ammo -- Except Not Really",
+      "description": "Hit all targets in time.",
+      "points": 5,
+      "trueRatio": 7,
+      "type": "win_condition",
+      "author": "lonegraywolf2000",
+      "badgeUrl": "https://media.retroachievements.org/Badge/389199.png",
+      "numAwarded": 210,
+      "numAwardedHardcore": 200,
+      "displayOrder": 0,
+      "memAddr": "0x 1d002e!=0_0xH1cfe88=48_d0xH1cfe88=47"
+    },
+    {
+      "achievementId": 344471,
+      "title": "Kept You Waiting, Huh?",
+      "description": "Hit all targets in time without losing any life.",
+      "points": 10,
+      "trueRatio": 14,
+      "type": "",
+      "author": "lonegraywolf2000",
+      "badgeUrl": "https://media.retroachievements.org/Badge/389200.png",
+      "numAwarded": 206,
+      "numAwardedHardcore": 196,
+      "displayOrder": 0,
+      "memAddr": "0x 1d002e!=0_0xH1cfe88=48_d0xH1cfe88=47_0x 1d8ae8=8243"
+    }
+  ]
+}
