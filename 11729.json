@@ -7,14 +7,14 @@
       "title": "Small Mario Vs Small Bowser",
       "description": "As small Mario, enter the tower in World 1, climb to the top and defeat Bowser Jr without dying.",
       "points": 10,
-      "trueRatio": 25,
+      "trueRatio": 24,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578088.png",
-      "numAwarded": 1880,
-      "numAwardedHardcore": 1566,
+      "numAwarded": 2110,
+      "numAwardedHardcore": 1727,
       "displayOrder": 0,
-      "memAddr": "74935a95f541979ebb6a6e2e724b1e07"
+      "memAddr": "N:0xP000980f9=0_N:0xH000980b8=0_N:d0xH000980b8=1_0xX000980d4=14.1._T:0xX000980d4=15_R:0xH000980b8=1_N:0xW0009dbf8!=0_I:0xW0009dbf8_R:0xH00000757>0_B:d0xX0009dc20_T:0xX0009dc20=4000"
     },
     {
       "achievementId": 104609,
@@ -25,10 +25,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116363.png",
-      "numAwarded": 6796,
-      "numAwardedHardcore": 4962,
+      "numAwarded": 7308,
+      "numAwardedHardcore": 5264,
       "displayOrder": 1,
-      "memAddr": "ca37eafd98d9c7a9e19eeb784694a08c"
+      "memAddr": "0xH0009b260=0_0xH0009b268=7_I:0xW00139474_d0xX00001534=3_I:0xW00139474_0xX00001534!=3"
     },
     {
       "achievementId": 104610,
@@ -39,10 +39,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116364.png",
-      "numAwarded": 3844,
-      "numAwardedHardcore": 3103,
+      "numAwarded": 4113,
+      "numAwardedHardcore": 3283,
       "displayOrder": 2,
-      "memAddr": "a4a1113261a4b57850a9a5ff9396a9b2"
+      "memAddr": "A:0xM09b2b1=0xH000000_A:0xN09b2b1=0xH000000_A:0xO09b2b1=0xH000000_A:0xM09b2b2=0xH000000_A:0xN09b2b2=0xH000000_A:0xO09b2b2=0xH000000_A:0xM09b2b3=0xH000000_A:0xN09b2b3=0xH000000_A:0xO09b2b3=0xH000000_A:0xM09b2b4=0xH000000_A:0xN09b2b4=0xH000000_A:0xO09b2b4=0xH000000_A:0xM09b2b5=0xH000000_A:0xN09b2b5=0xH000000_A:0xO09b2b5=0xH000000_A:0xM09b2b6=0xH000000_A:0xN09b2b6=0xH000000_A:0xO09b2b6=0xH000000_A:0xM09b2bc=0xH000000_A:0xN09b2bc=0xH000000_A:0xO09b2bc=0xH000000_A:0xM09b2b7=0xH000000_A:0xN09b2b7=0xH000000_M:0xO09b2b7=24_A:d0xM09b2b1=0xH000000_A:d0xN09b2b1=0xH000000_A:d0xO09b2b1=0xH000000_A:d0xM09b2b2=0xH000000_A:d0xN09b2b2=0xH000000_A:d0xO09b2b2=0xH000000_A:d0xM09b2b3=0xH000000_A:d0xN09b2b3=0xH000000_A:d0xO09b2b3=0xH000000_A:d0xM09b2b4=0xH000000_A:d0xN09b2b4=0xH000000_A:d0xO09b2b4=0xH000000_A:d0xM09b2b5=0xH000000_A:d0xN09b2b5=0xH000000_A:d0xO09b2b5=0xH000000_A:d0xM09b2b6=0xH000000_A:d0xN09b2b6=0xH000000_A:d0xO09b2b6=0xH000000_A:d0xM09b2bc=0xH000000_A:d0xN09b2bc=0xH000000_A:d0xO09b2bc=0xH000000_A:d0xM09b2b7=0xH000000_A:d0xN09b2b7=0xH000000_d0xO09b2b7<=23_A:d0xM09b2b1=0xH000000_A:d0xN09b2b1=0xH000000_A:d0xO09b2b1=0xH000000_A:d0xM09b2b2=0xH000000_A:d0xN09b2b2=0xH000000_A:d0xO09b2b2=0xH000000_A:d0xM09b2b3=0xH000000_A:d0xN09b2b3=0xH000000_A:d0xO09b2b3=0xH000000_A:d0xM09b2b4=0xH000000_A:d0xN09b2b4=0xH000000_A:d0xO09b2b4=0xH000000_A:d0xM09b2b5=0xH000000_A:d0xN09b2b5=0xH000000_A:d0xO09b2b5=0xH000000_A:d0xM09b2b6=0xH000000_A:d0xN09b2b6=0xH000000_A:d0xO09b2b6=0xH000000_A:d0xM09b2bc=0xH000000_A:d0xN09b2bc=0xH000000_A:d0xO09b2bc=0xH000000_A:d0xM09b2b7=0xH000000_A:d0xN09b2b7=0xH000000_d0xO09b2b7>=21"
     },
     {
       "achievementId": 104611,
@@ -53,24 +53,24 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116365.png",
-      "numAwarded": 1740,
-      "numAwardedHardcore": 1529,
+      "numAwarded": 1831,
+      "numAwardedHardcore": 1609,
       "displayOrder": 3,
-      "memAddr": "77798c2e6f366fdfccffb04af196d1bd"
+      "memAddr": "N:0xH098058=0_N:0xH098054=0_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=0_N:0xH098054=1_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=0_N:0xH098054=1_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=0_N:0xH098054=2_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=0_N:0xH098054=3_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=0_N:0xH098054=4_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=0_N:0xH098054=5_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=0_N:0xH098054=6_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._M:0=1.8."
     },
     {
       "achievementId": 510906,
       "title": "Climbing to Offer a Rematch",
       "description": "As small Mario, enter the tower in World 2, climb to the top and defeat Bowser Jr without dying.",
       "points": 10,
-      "trueRatio": 34,
+      "trueRatio": 33,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578089.png",
-      "numAwarded": 1194,
-      "numAwardedHardcore": 1032,
+      "numAwarded": 1329,
+      "numAwardedHardcore": 1137,
       "displayOrder": 3,
-      "memAddr": "3a63da0385b119bc263961201ffbe915"
+      "memAddr": "N:0xP000980f9=0_N:0xH000980b8=0_N:d0xH000980b8=1_0xX000980d4=37.1._T:0xX000980d4=39_R:0xH000980b8=1_N:0xW0009dbf8!=0_I:0xW0009dbf8_R:0xH00000757>0_B:d0xX0009dc20_T:0xX0009dc20=4000"
     },
     {
       "achievementId": 104612,
@@ -81,10 +81,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116366.png",
-      "numAwarded": 4228,
-      "numAwardedHardcore": 3270,
+      "numAwarded": 4509,
+      "numAwardedHardcore": 3447,
       "displayOrder": 4,
-      "memAddr": "50fadf24f9d36555d5fa8c4612f61be1"
+      "memAddr": "0xH0009b260=1_0xH0009b268=10_I:0xW00139474_d0xX00001534=3_I:0xW00139474_0xX00001534!=3"
     },
     {
       "achievementId": 104613,
@@ -95,10 +95,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116367.png",
-      "numAwarded": 2352,
-      "numAwardedHardcore": 1952,
+      "numAwarded": 2502,
+      "numAwardedHardcore": 2062,
       "displayOrder": 5,
-      "memAddr": "2d2998d448d019faf240b1c52579c059"
+      "memAddr": "A:0xM0009b2ca_A:0xN0009b2ca_A:0xO0009b2ca_A:0xM0009b2cb_A:0xN0009b2cb_A:0xO0009b2cb_A:0xM0009b2cc_A:0xN0009b2cc_A:0xO0009b2cc_A:0xM0009b2cd_A:0xN0009b2cd_A:0xO0009b2cd_A:0xM0009b2ce_A:0xN0009b2ce_A:0xO0009b2ce_A:0xM0009b2d0_A:0xN0009b2d0_A:0xO0009b2d0_A:0xM0009b2d2_A:0xN0009b2d2_A:0xO0009b2d2_A:0xM0009b2d3_A:0xN0009b2d3_A:0xO0009b2d3_A:0xM0009b2d5_A:0xN0009b2d5_M:0xO0009b2d5=27_A:d0xM0009b2ca_A:d0xN0009b2ca_A:d0xO0009b2ca_A:d0xM0009b2cb_A:d0xN0009b2cb_A:d0xO0009b2cb_A:d0xM0009b2cc_A:d0xN0009b2cc_A:d0xO0009b2cc_A:d0xM0009b2cd_A:d0xN0009b2cd_A:d0xO0009b2cd_A:d0xM0009b2ce_A:d0xN0009b2ce_A:d0xO0009b2ce_A:d0xM0009b2d0_A:d0xN0009b2d0_A:d0xO0009b2d0_A:d0xM0009b2d2_A:d0xN0009b2d2_A:d0xO0009b2d2_A:d0xM0009b2d3_A:d0xN0009b2d3_A:d0xO0009b2d3_A:d0xM0009b2d5_A:d0xN0009b2d5_d0xO0009b2d5<=26_A:d0xM0009b2ca_A:d0xN0009b2ca_A:d0xO0009b2ca_A:d0xM0009b2cb_A:d0xN0009b2cb_A:d0xO0009b2cb_A:d0xM0009b2cc_A:d0xN0009b2cc_A:d0xO0009b2cc_A:d0xM0009b2cd_A:d0xN0009b2cd_A:d0xO0009b2cd_A:d0xM0009b2ce_A:d0xN0009b2ce_A:d0xO0009b2ce_A:d0xM0009b2d0_A:d0xN0009b2d0_A:d0xO0009b2d0_A:d0xM0009b2d2_A:d0xN0009b2d2_A:d0xO0009b2d2_A:d0xM0009b2d3_A:d0xN0009b2d3_A:d0xO0009b2d3_A:d0xM0009b2d5_A:d0xN0009b2d5_d0xO0009b2d5>=24"
     },
     {
       "achievementId": 104614,
@@ -109,24 +109,24 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116368.png",
-      "numAwarded": 1015,
-      "numAwardedHardcore": 897,
+      "numAwarded": 1074,
+      "numAwardedHardcore": 954,
       "displayOrder": 6,
-      "memAddr": "2eefe50f5c93a9aee23defb287d63388"
+      "memAddr": "N:0xH098058=1_N:0xH098054=0_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=1_N:0xH098054=1_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=1_N:0xH098054=2_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=1_N:0xH098054=2_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=1_N:0xH098054=3_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=1_N:0xH098054=3_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=1_N:0xH098054=4_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=1_N:0xH098054=5_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=1_N:0xH098054=6_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=1_N:0xH098054=6_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._M:0=1.10."
     },
     {
       "achievementId": 510907,
       "title": "Latch On and Keep Climbing",
       "description": "As small Mario, enter the tower in World 3, climb to the top and defeat Bowser Jr without dying.",
       "points": 10,
-      "trueRatio": 42,
+      "trueRatio": 40,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578090.png",
-      "numAwarded": 941,
-      "numAwardedHardcore": 825,
+      "numAwarded": 1039,
+      "numAwardedHardcore": 911,
       "displayOrder": 6,
-      "memAddr": "da7d64ed3d13642018672da99cc2e99d"
+      "memAddr": "N:0xP000980f9=0_N:0xH000980b8=0_N:d0xH000980b8=1_0xX000980d4=61.1._T:0xX000980d4=62_R:0xH000980b8=1_N:0xW0009dbf8!=0_I:0xW0009dbf8_R:0xH00000757>0_B:d0xX0009dc20_T:0xX0009dc20=4000"
     },
     {
       "achievementId": 104628,
@@ -137,10 +137,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116369.png",
-      "numAwarded": 2944,
-      "numAwardedHardcore": 2292,
+      "numAwarded": 3141,
+      "numAwardedHardcore": 2428,
       "displayOrder": 7,
-      "memAddr": "0d3f9d00fecab201cd798fd30790866d"
+      "memAddr": "0xH0009b260=2_0xH0009b268=10_I:0xW00139474_d0xX00001534=3_I:0xW00139474_0xX00001534!=3"
     },
     {
       "achievementId": 104629,
@@ -151,38 +151,38 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116370.png",
-      "numAwarded": 1713,
-      "numAwardedHardcore": 1430,
+      "numAwarded": 1827,
+      "numAwardedHardcore": 1520,
       "displayOrder": 8,
-      "memAddr": "d8d2ca6049a5972495da1a7aff474a2c"
+      "memAddr": "A:0xM09b2e4=215_A:0xN09b2e4=215_A:0xO09b2e4=215_A:0xM09b2e6=215_A:0xN09b2e6=215_A:0xO09b2e6=215_A:0xM09b2e7=215_A:0xN09b2e7=215_A:0xO09b2e7=215_A:0xM09b2e9=215_A:0xN09b2e9=215_A:0xO09b2e9=215_A:0xM09b2ea=215_A:0xN09b2ea=215_A:0xO09b2ea=215_A:0xM09b2ec=215_A:0xN09b2ec=215_A:0xO09b2ec=215_A:0xM09b2ed=215_A:0xN09b2ed=215_A:0xO09b2ed=215_A:0xM09b2ef=215_A:0xN09b2ef=215_A:0xO09b2ef=215_A:0xM09b2f1=215_A:0xN09b2f1=215_M:0xO09b2f1=27_A:d0xM09b2e4=215_A:d0xN09b2e4=215_A:d0xO09b2e4=215_A:d0xM09b2e6=215_A:d0xN09b2e6=215_A:d0xO09b2e6=215_A:d0xM09b2e7=215_A:d0xN09b2e7=215_A:d0xO09b2e7=215_A:d0xM09b2e9=215_A:d0xN09b2e9=215_A:d0xO09b2e9=215_A:d0xM09b2ea=215_A:d0xN09b2ea=215_A:d0xO09b2ea=215_A:d0xM09b2ec=215_A:d0xN09b2ec=215_A:d0xO09b2ec=215_A:d0xM09b2ed=215_A:d0xN09b2ed=215_A:d0xO09b2ed=215_A:d0xM09b2ef=215_A:d0xN09b2ef=215_A:d0xO09b2ef=215_A:d0xM09b2f1=215_A:d0xN09b2f1=215_d0xO09b2f1<=26_A:d0xM09b2e4=215_A:d0xN09b2e4=215_A:d0xO09b2e4=215_A:d0xM09b2e6=215_A:d0xN09b2e6=215_A:d0xO09b2e6=215_A:d0xM09b2e7=215_A:d0xN09b2e7=215_A:d0xO09b2e7=215_A:d0xM09b2e9=215_A:d0xN09b2e9=215_A:d0xO09b2e9=215_A:d0xM09b2ea=215_A:d0xN09b2ea=215_A:d0xO09b2ea=215_A:d0xM09b2ec=215_A:d0xN09b2ec=215_A:d0xO09b2ec=215_A:d0xM09b2ed=215_A:d0xN09b2ed=215_A:d0xO09b2ed=215_A:d0xM09b2ef=215_A:d0xN09b2ef=215_A:d0xO09b2ef=215_A:d0xM09b2f1=215_A:d0xN09b2f1=215_d0xO09b2f1>=24"
     },
     {
       "achievementId": 104630,
       "title": "On Top of the Palms",
       "description": "In a single session, reach the top of every flagpole in World 3.",
       "points": 10,
-      "trueRatio": 40,
+      "trueRatio": 41,
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116371.png",
-      "numAwarded": 966,
-      "numAwardedHardcore": 853,
+      "numAwarded": 1017,
+      "numAwardedHardcore": 901,
       "displayOrder": 9,
-      "memAddr": "41b2fb11fd8d12faad04a93acb43a487"
+      "memAddr": "N:0xH098058=2_N:0xH098054=0_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=2_N:0xH098054=1_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=2_N:0xH098054=1_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=2_N:0xH098054=2_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=2_N:0xH098054=3_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=2_N:0xH098054=4_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=2_N:0xH098054=5_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=2_N:0xH098054=6_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=2_N:0xH098054=6_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._M:0=1.9."
     },
     {
       "achievementId": 510908,
       "title": "Don't Get Squashed",
       "description": "As small Mario, enter the tower in World 4, climb to the top and defeat Bowser Jr without dying.",
       "points": 10,
-      "trueRatio": 46,
+      "trueRatio": 44,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578091.png",
-      "numAwarded": 837,
-      "numAwardedHardcore": 736,
+      "numAwarded": 921,
+      "numAwardedHardcore": 813,
       "displayOrder": 9,
-      "memAddr": "f96a46148715750674868d605422918c"
+      "memAddr": "N:0xP000980f9=0_N:0xH000980b8=0_N:d0xH000980b8=1_0xX000980d4=83.1._T:0xX000980d4=84_R:0xH000980b8=1_N:0xW0009dbf8!=0_I:0xW0009dbf8_R:0xH00000757>0_B:d0xX0009dc20_T:0xX0009dc20=4000"
     },
     {
       "achievementId": 104634,
@@ -193,10 +193,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116372.png",
-      "numAwarded": 2141,
-      "numAwardedHardcore": 1774,
+      "numAwarded": 2269,
+      "numAwardedHardcore": 1868,
       "displayOrder": 10,
-      "memAddr": "4ab0930f4c89a8e355d13d733804696d"
+      "memAddr": "0xH0009b260=3_0xH0009b268=11_I:0xW00139474_d0xX00001534=3_I:0xW00139474_0xX00001534!=3"
     },
     {
       "achievementId": 104635,
@@ -207,10 +207,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116373.png",
-      "numAwarded": 1482,
-      "numAwardedHardcore": 1249,
+      "numAwarded": 1577,
+      "numAwardedHardcore": 1322,
       "displayOrder": 11,
-      "memAddr": "4673422e54720556261f16a5f29ca69a"
+      "memAddr": "A:0xM09b2fc=215_A:0xN09b2fc=215_A:0xO09b2fc=215_A:0xM09b2fd=215_A:0xN09b2fd=215_A:0xO09b2fd=215_A:0xM09b2fe=215_A:0xN09b2fe=215_A:0xO09b2fe=215_A:0xM09b2ff=215_A:0xN09b2ff=215_A:0xO09b2ff=215_A:0xM09b301=215_A:0xN09b301=215_A:0xO09b301=215_A:0xM09b303=215_A:0xN09b303=215_A:0xO09b303=215_A:0xM09b304=215_A:0xN09b304=215_A:0xO09b304=215_A:0xM09b305=215_A:0xN09b305=215_A:0xO09b305=215_A:0xM09b306=215_A:0xN09b306=215_A:0xO09b306=215_A:0xM09b309=215_A:0xN09b309=215_M:0xO09b309=30_A:d0xM09b2fc=215_A:d0xN09b2fc=215_A:d0xO09b2fc=215_A:d0xM09b2fd=215_A:d0xN09b2fd=215_A:d0xO09b2fd=215_A:d0xM09b2fe=215_A:d0xN09b2fe=215_A:d0xO09b2fe=215_A:d0xM09b2ff=215_A:d0xN09b2ff=215_A:d0xO09b2ff=215_A:d0xM09b301=215_A:d0xN09b301=215_A:d0xO09b301=215_A:d0xM09b303=215_A:d0xN09b303=215_A:d0xO09b303=215_A:d0xM09b304=215_A:d0xN09b304=215_A:d0xO09b304=215_A:d0xM09b305=215_A:d0xN09b305=215_A:d0xO09b305=215_A:d0xM09b306=215_A:d0xN09b306=215_A:d0xO09b306=215_A:d0xM09b309=215_A:d0xN09b309=215_d0xO09b309<=29_A:d0xM09b2fc=215_A:d0xN09b2fc=215_A:d0xO09b2fc=215_A:d0xM09b2fd=215_A:d0xN09b2fd=215_A:d0xO09b2fd=215_A:d0xM09b2fe=215_A:d0xN09b2fe=215_A:d0xO09b2fe=215_A:d0xM09b2ff=215_A:d0xN09b2ff=215_A:d0xO09b2ff=215_A:d0xM09b301=215_A:d0xN09b301=215_A:d0xO09b301=215_A:d0xM09b303=215_A:d0xN09b303=215_A:d0xO09b303=215_A:d0xM09b304=215_A:d0xN09b304=215_A:d0xO09b304=215_A:d0xM09b305=215_A:d0xN09b305=215_A:d0xO09b305=215_A:d0xM09b306=215_A:d0xN09b306=215_A:d0xO09b306=215_A:d0xM09b309=215_A:d0xN09b309=215_d0xO09b309>=27"
     },
     {
       "achievementId": 104636,
@@ -221,24 +221,24 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116374.png",
-      "numAwarded": 859,
-      "numAwardedHardcore": 760,
+      "numAwarded": 906,
+      "numAwardedHardcore": 802,
       "displayOrder": 12,
-      "memAddr": "8705a62ec7f930263cfc49fb28900294"
+      "memAddr": "N:0xH098058=3_N:0xH098054=0_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=3_N:0xH098054=0_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=3_N:0xH098054=1_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=3_N:0xH098054=2_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=3_N:0xH098054=3_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=3_N:0xH098054=4_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=3_N:0xH098054=5_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=3_N:0xH098054=6_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=3_N:0xH098054=7_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=3_N:0xH098054=7_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._M:0=1.10."
     },
     {
       "achievementId": 510909,
       "title": "Clean Rise",
       "description": "As small Mario, enter the tower in World 5, climb to the top and defeat Bowser Jr without dying.",
       "points": 10,
-      "trueRatio": 49,
+      "trueRatio": 48,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578092.png",
-      "numAwarded": 785,
-      "numAwardedHardcore": 683,
+      "numAwarded": 862,
+      "numAwardedHardcore": 753,
       "displayOrder": 12,
-      "memAddr": "aa6282b56ba314700b0d18db408c75ea"
+      "memAddr": "N:0xP000980f9=0_N:0xH000980b8=0_N:d0xH000980b8=1_0xX000980d4=102.1._T:0xX000980d4=103_R:0xH000980b8=1_N:0xW0009dbf8!=0_I:0xW0009dbf8_R:0xH00000757>0_B:d0xX0009dc20_T:0xX0009dc20=4000"
     },
     {
       "achievementId": 104934,
@@ -249,10 +249,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116375.png",
-      "numAwarded": 2465,
-      "numAwardedHardcore": 1934,
+      "numAwarded": 2623,
+      "numAwardedHardcore": 2042,
       "displayOrder": 13,
-      "memAddr": "f4cc94c4a0849b138bf6d9764a071af4"
+      "memAddr": "0xH0009b260=4_0xH0009b268=11_I:0xW00139474_d0xX00001534=3_I:0xW00139474_0xX00001534!=3"
     },
     {
       "achievementId": 104935,
@@ -263,10 +263,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116376.png",
-      "numAwarded": 1415,
-      "numAwardedHardcore": 1184,
+      "numAwarded": 1507,
+      "numAwardedHardcore": 1258,
       "displayOrder": 14,
-      "memAddr": "ed1a8705e0424d6d1bb29489e527e578"
+      "memAddr": "A:0xM09b315=215_A:0xN09b315=215_A:0xO09b315=215_A:0xM09b317=215_A:0xN09b317=215_A:0xO09b317=215_A:0xM09b319=215_A:0xN09b319=215_A:0xO09b319=215_A:0xM09b31b=215_A:0xN09b31b=215_A:0xO09b31b=215_A:0xM09b31c=215_A:0xN09b31c=215_A:0xO09b31c=215_A:0xM09b31e=215_A:0xN09b31e=215_A:0xO09b31e=215_A:0xM09b31f=215_A:0xN09b31f=215_A:0xO09b31f=215_A:0xM09b321=215_A:0xN09b321=215_A:0xO09b321=215_A:0xM09b324=215_A:0xN09b324=215_A:0xO09b324=215_A:0xM09b326=215_A:0xN09b326=215_M:0xO09b326=30_A:d0xM09b315=215_A:d0xN09b315=215_A:d0xO09b315=215_A:d0xM09b317=215_A:d0xN09b317=215_A:d0xO09b317=215_A:d0xM09b319=215_A:d0xN09b319=215_A:d0xO09b319=215_A:d0xM09b31b=215_A:d0xN09b31b=215_A:d0xO09b31b=215_A:d0xM09b31c=215_A:d0xN09b31c=215_A:d0xO09b31c=215_A:d0xM09b31e=215_A:d0xN09b31e=215_A:d0xO09b31e=215_A:d0xM09b31f=215_A:d0xN09b31f=215_A:d0xO09b31f=215_A:d0xM09b321=215_A:d0xN09b321=215_A:d0xO09b321=215_A:d0xM09b324=215_A:d0xN09b324=215_A:d0xO09b324=215_A:d0xM09b326=215_A:d0xN09b326=215_d0xO09b326<=29_A:d0xM09b315=215_A:d0xN09b315=215_A:d0xO09b315=215_A:d0xM09b317=215_A:d0xN09b317=215_A:d0xO09b317=215_A:d0xM09b319=215_A:d0xN09b319=215_A:d0xO09b319=215_A:d0xM09b31b=215_A:d0xN09b31b=215_A:d0xO09b31b=215_A:d0xM09b31c=215_A:d0xN09b31c=215_A:d0xO09b31c=215_A:d0xM09b31e=215_A:d0xN09b31e=215_A:d0xO09b31e=215_A:d0xM09b31f=215_A:d0xN09b31f=215_A:d0xO09b31f=215_A:d0xM09b321=215_A:d0xN09b321=215_A:d0xO09b321=215_A:d0xM09b324=215_A:d0xN09b324=215_A:d0xO09b324=215_A:d0xM09b326=215_A:d0xN09b326=215_d0xO09b326>=27"
     },
     {
       "achievementId": 104936,
@@ -277,38 +277,38 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116377.png",
-      "numAwarded": 810,
-      "numAwardedHardcore": 717,
+      "numAwarded": 853,
+      "numAwardedHardcore": 758,
       "displayOrder": 15,
-      "memAddr": "f90cfe3b0110b7a115e581f8ee440350"
+      "memAddr": "N:0xH098058=4_N:0xH098054=0_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=4_N:0xH098054=1_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=4_N:0xH098054=1_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=4_N:0xH098054=2_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=4_N:0xH098054=3_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=4_N:0xH098054=4_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=4_N:0xH098054=5_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=4_N:0xH098054=5_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=4_N:0xH098054=6_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=4_N:0xH098054=7_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=4_N:0xH098054=7_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._M:0=1.11."
     },
     {
       "achievementId": 510910,
       "title": "At Least the Massive Spikes Are Slow",
       "description": "As small Mario, enter the first tower in World 6, climb to the top and defeat Bowser Jr without dying.",
       "points": 10,
-      "trueRatio": 55,
+      "trueRatio": 53,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578093.png",
-      "numAwarded": 701,
-      "numAwardedHardcore": 608,
+      "numAwarded": 764,
+      "numAwardedHardcore": 665,
       "displayOrder": 15,
-      "memAddr": "f70f7d83c73de12c48c6c8ac825e21e4"
+      "memAddr": "N:0xO000980f9=0_N:0xH000980b8=0_N:d0xH000980b8=1_0xX000980d4=122.1._T:0xX000980d4=123_R:0xH000980b8=1_N:0xW0009dbf8!=0_I:0xW0009dbf8_R:0xH00000757>0_B:d0xX0009dc20_T:0xX0009dc20=4000"
     },
     {
       "achievementId": 510911,
       "title": "Roll On Up",
       "description": "As small Mario, enter the second tower in World 6, climb to the top and defeat Bowser Jr without dying.",
       "points": 10,
-      "trueRatio": 57,
+      "trueRatio": 55,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578094.png",
-      "numAwarded": 662,
-      "numAwardedHardcore": 577,
+      "numAwarded": 729,
+      "numAwardedHardcore": 638,
       "displayOrder": 15,
-      "memAddr": "56b8fdf5d29fd537f72b616a7b815213"
+      "memAddr": "N:0xO000980f9=0_N:0xH000980b8=0_N:d0xH000980b8=1_0xX000980d4=124.1._T:0xX000980d4=125_R:0xH000980b8=1_N:0xW0009dbf8!=0_I:0xW0009dbf8_R:0xH00000757>0_B:d0xX0009dc20_T:0xX0009dc20=4000"
     },
     {
       "achievementId": 104937,
@@ -319,10 +319,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116378.png",
-      "numAwarded": 2046,
-      "numAwardedHardcore": 1628,
+      "numAwarded": 2172,
+      "numAwardedHardcore": 1722,
       "displayOrder": 16,
-      "memAddr": "5f2101bd9430817a00112a67d4805c35"
+      "memAddr": "0xH0009b260=5_0xH0009b268=12_I:0xW00139474_d0xX00001534=3_I:0xW00139474_0xX00001534!=3"
     },
     {
       "achievementId": 104938,
@@ -333,10 +333,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116379.png",
-      "numAwarded": 1256,
-      "numAwardedHardcore": 1056,
+      "numAwarded": 1338,
+      "numAwardedHardcore": 1121,
       "displayOrder": 17,
-      "memAddr": "65a2dbc27d31a64c1dca6a9fe9f5218e"
+      "memAddr": "A:0xM09b32f=215_A:0xN09b32f=215_A:0xO09b32f=215_A:0xM09b331=215_A:0xN09b331=215_A:0xO09b331=215_A:0xM09b332=215_A:0xN09b332=215_A:0xO09b332=215_A:0xM09b333=215_A:0xN09b333=215_A:0xO09b333=215_A:0xM09b334=215_A:0xN09b334=215_A:0xO09b334=215_A:0xM09b335=215_A:0xN09b335=215_A:0xO09b335=215_A:0xM09b337=215_A:0xN09b337=215_A:0xO09b337=215_A:0xM09b338=215_A:0xN09b338=215_A:0xO09b338=215_A:0xM09b339=215_A:0xN09b339=215_A:0xO09b339=215_A:0xM09b33a=215_A:0xN09b33a=215_A:0xO09b33a=215_A:0xM09b340=215_A:0xN09b340=215_M:0xO09b340=33_A:d0xM09b32f=215_A:d0xN09b32f=215_A:d0xO09b32f=215_A:d0xM09b331=215_A:d0xN09b331=215_A:d0xO09b331=215_A:d0xM09b332=215_A:d0xN09b332=215_A:d0xO09b332=215_A:d0xM09b333=215_A:d0xN09b333=215_A:d0xO09b333=215_A:d0xM09b334=215_A:d0xN09b334=215_A:d0xO09b334=215_A:d0xM09b335=215_A:d0xN09b335=215_A:d0xO09b335=215_A:d0xM09b337=215_A:d0xN09b337=215_A:d0xO09b337=215_A:d0xM09b338=215_A:d0xN09b338=215_A:d0xO09b338=215_A:d0xM09b339=215_A:d0xN09b339=215_A:d0xO09b339=215_A:d0xM09b33a=215_A:d0xN09b33a=215_A:d0xO09b33a=215_A:d0xM09b340=215_A:d0xN09b340=215_d0xO09b340<=32_A:d0xM09b32f=215_A:d0xN09b32f=215_A:d0xO09b32f=215_A:d0xM09b331=215_A:d0xN09b331=215_A:d0xO09b331=215_A:d0xM09b332=215_A:d0xN09b332=215_A:d0xO09b332=215_A:d0xM09b333=215_A:d0xN09b333=215_A:d0xO09b333=215_A:d0xM09b334=215_A:d0xN09b334=215_A:d0xO09b334=215_A:d0xM09b335=215_A:d0xN09b335=215_A:d0xO09b335=215_A:d0xM09b337=215_A:d0xN09b337=215_A:d0xO09b337=215_A:d0xM09b338=215_A:d0xN09b338=215_A:d0xO09b338=215_A:d0xM09b339=215_A:d0xN09b339=215_A:d0xO09b339=215_A:d0xM09b33a=215_A:d0xN09b33a=215_A:d0xO09b33a=215_A:d0xM09b340=215_A:d0xN09b340=215_d0xO09b340>=30"
     },
     {
       "achievementId": 104939,
@@ -347,24 +347,24 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116380.png",
-      "numAwarded": 769,
-      "numAwardedHardcore": 685,
+      "numAwarded": 809,
+      "numAwardedHardcore": 723,
       "displayOrder": 18,
-      "memAddr": "d95e477243fdd87b20fe53d2cd27a740"
+      "memAddr": "N:0xH098058=5_N:0xH098054=0_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=5_N:0xH098054=1_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=5_N:0xH098054=2_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=5_N:0xH098054=3_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=5_N:0xH098054=4_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=5_N:0xH098054=5_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=5_N:0xH098054=6_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=5_N:0xH098054=7_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._M:0=1.8."
     },
     {
       "achievementId": 510912,
       "title": "Through Mazes and Spikes",
       "description": "As small Mario, enter the tower in World 7, climb to the top and defeat Bowser Jr without dying.",
       "points": 10,
-      "trueRatio": 61,
+      "trueRatio": 59,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578095.png",
-      "numAwarded": 619,
-      "numAwardedHardcore": 542,
+      "numAwarded": 678,
+      "numAwardedHardcore": 594,
       "displayOrder": 18,
-      "memAddr": "700f46730e6271b5b9adef5f1ed99e20"
+      "memAddr": "N:0xP000980f9=0_N:0xH000980b8=0_N:d0xH000980b8=1_0xX000980d4=148.1._T:0xX000980d4=149_R:0xH000980b8=1_N:0xW0009dbf8!=0_I:0xW0009dbf8_R:0xH00000757>0_B:d0xX0009dc20_T:0xX0009dc20=4000"
     },
     {
       "achievementId": 104940,
@@ -375,10 +375,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116381.png",
-      "numAwarded": 1368,
-      "numAwardedHardcore": 1132,
+      "numAwarded": 1465,
+      "numAwardedHardcore": 1208,
       "displayOrder": 19,
-      "memAddr": "676af25ef8c33d7295401522d3ad8cee"
+      "memAddr": "0xH0009b260=6_0xH0009b268=10_I:0xW00139474_d0xX00001534=3_I:0xW00139474_0xX00001534!=3"
     },
     {
       "achievementId": 104941,
@@ -389,10 +389,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116382.png",
-      "numAwarded": 1143,
-      "numAwardedHardcore": 971,
+      "numAwarded": 1229,
+      "numAwardedHardcore": 1038,
       "displayOrder": 20,
-      "memAddr": "3768416207801472fd89a299c3235fff"
+      "memAddr": "A:0xM09b347=215_A:0xN09b347=215_A:0xO09b347=215_A:0xM09b348=215_A:0xN09b348=215_A:0xO09b348=215_A:0xM09b349=215_A:0xN09b349=215_A:0xO09b349=215_A:0xM09b34a=215_A:0xN09b34a=215_A:0xO09b34a=215_A:0xM09b34b=215_A:0xN09b34b=215_A:0xO09b34b=215_A:0xM09b34c=215_A:0xN09b34c=215_A:0xO09b34c=215_A:0xM09b34d=215_A:0xN09b34d=215_A:0xO09b34d=215_A:0xM09b34e=215_A:0xN09b34e=215_A:0xO09b34e=215_A:0xM09b350=215_A:0xN09b350=215_A:0xO09b350=215_A:0xM09b356=215_A:0xN09b356=215_A:0xO09b356=215_A:0xM09b357=215_A:0xN09b357=215_M:0xO09b357=33_A:d0xM09b347=215_A:d0xN09b347=215_A:d0xO09b347=215_A:d0xM09b348=215_A:d0xN09b348=215_A:d0xO09b348=215_A:d0xM09b349=215_A:d0xN09b349=215_A:d0xO09b349=215_A:d0xM09b34a=215_A:d0xN09b34a=215_A:d0xO09b34a=215_A:d0xM09b34b=215_A:d0xN09b34b=215_A:d0xO09b34b=215_A:d0xM09b34c=215_A:d0xN09b34c=215_A:d0xO09b34c=215_A:d0xM09b34d=215_A:d0xN09b34d=215_A:d0xO09b34d=215_A:d0xM09b34e=215_A:d0xN09b34e=215_A:d0xO09b34e=215_A:d0xM09b350=215_A:d0xN09b350=215_A:d0xO09b350=215_A:d0xM09b356=215_A:d0xN09b356=215_A:d0xO09b356=215_A:d0xM09b357=215_A:d0xN09b357=215_d0xO09b357<=32_A:d0xM09b347=215_A:d0xN09b347=215_A:d0xO09b347=215_A:d0xM09b348=215_A:d0xN09b348=215_A:d0xO09b348=215_A:d0xM09b349=215_A:d0xN09b349=215_A:d0xO09b349=215_A:d0xM09b34a=215_A:d0xN09b34a=215_A:d0xO09b34a=215_A:d0xM09b34b=215_A:d0xN09b34b=215_A:d0xO09b34b=215_A:d0xM09b34c=215_A:d0xN09b34c=215_A:d0xO09b34c=215_A:d0xM09b34d=215_A:d0xN09b34d=215_A:d0xO09b34d=215_A:d0xM09b34e=215_A:d0xN09b34e=215_A:d0xO09b34e=215_A:d0xM09b350=215_A:d0xN09b350=215_A:d0xO09b350=215_A:d0xM09b356=215_A:d0xN09b356=215_A:d0xO09b356=215_A:d0xM09b357=215_A:d0xN09b357=215_d0xO09b357>=30"
     },
     {
       "achievementId": 104975,
@@ -403,38 +403,38 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116383.png",
-      "numAwarded": 725,
-      "numAwardedHardcore": 653,
+      "numAwarded": 768,
+      "numAwardedHardcore": 691,
       "displayOrder": 21,
-      "memAddr": "e0af3aa9cc4e910d96306cb2a6f17ab8"
+      "memAddr": "N:0xH098058=6_N:0xH098054=0_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=6_N:0xH098054=1_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=6_N:0xH098054=2_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=6_N:0xH098054=3_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=6_N:0xH098054=3_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=6_N:0xH098054=4_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=6_N:0xH098054=4_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=6_N:0xH098054=5_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=6_N:0xH098054=5_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=6_N:0xH098054=6_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=6_N:0xH098054=7_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=6_N:0xH098054=8_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=6_N:0xH098054=8_N:0xH098108=1_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._M:0=1.13."
     },
     {
       "achievementId": 510913,
       "title": "Dominating Jr Once More",
       "description": "As small Mario, enter the first tower in World 8, climb to the top and defeat Bowser Jr without dying.",
       "points": 10,
-      "trueRatio": 58,
+      "trueRatio": 57,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578096.png",
-      "numAwarded": 642,
-      "numAwardedHardcore": 563,
+      "numAwarded": 701,
+      "numAwardedHardcore": 615,
       "displayOrder": 21,
-      "memAddr": "6ad2d04c288e685930c32dc33e29e07b"
+      "memAddr": "N:0xP000980f9=0_N:0xH000980b8=0_N:d0xH000980b8=1_0xX000980d4=168.1._T:0xX000980d4=169_R:0xH000980b8=1_N:0xW0009dbf8!=0_I:0xW0009dbf8_R:0xH00000757>0_B:d0xX0009dc20_T:0xX0009dc20=4000"
     },
     {
       "achievementId": 510914,
       "title": "Carried by the Green Chain",
       "description": "As small Mario, enter the second tower in World 8, climb to the top and defeat Bowser Jr without dying.",
       "points": 10,
-      "trueRatio": 63,
+      "trueRatio": 61,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578097.png",
-      "numAwarded": 592,
-      "numAwardedHardcore": 516,
+      "numAwarded": 649,
+      "numAwardedHardcore": 565,
       "displayOrder": 21,
-      "memAddr": "81fec0b5fae51b9c000196fc5b9e92ee"
+      "memAddr": "N:0xO000980f9=0_N:0xH000980b8=0_N:d0xH000980b8=1_0xX000980d4=170.1._T:0xX000980d4=171_R:0xH000980b8=1_N:0xW0009dbf8!=0_I:0xW0009dbf8_R:0xH00000757>0_B:d0xX0009dc20_T:0xX0009dc20=4000"
     },
     {
       "achievementId": 104976,
@@ -445,66 +445,66 @@
       "type": "win_condition",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116384.png",
-      "numAwarded": 1954,
-      "numAwardedHardcore": 1575,
+      "numAwarded": 2099,
+      "numAwardedHardcore": 1681,
       "displayOrder": 22,
-      "memAddr": "846b94b3e283015bfd434324ae37a06f"
+      "memAddr": "0xH0009b260=7_0xH0009b268=12_I:0xW00139474_d0xX00001534=3_I:0xW00139474_0xX00001534!=3"
     },
     {
       "achievementId": 104977,
       "title": "Golden Chunks in the Wasteland",
       "description": "Collect all Star Coins in World 8.",
       "points": 10,
-      "trueRatio": 38,
+      "trueRatio": 37,
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116385.png",
-      "numAwarded": 1101,
-      "numAwardedHardcore": 930,
+      "numAwarded": 1184,
+      "numAwardedHardcore": 994,
       "displayOrder": 23,
-      "memAddr": "0ef67c01d469d1732202271072fdb1cc"
+      "memAddr": "A:0xM09b360=215_A:0xN09b360=215_A:0xO09b360=215_A:0xM09b361=215_A:0xN09b361=215_A:0xO09b361=215_A:0xM09b362=215_A:0xN09b362=215_A:0xO09b362=215_A:0xM09b363=215_A:0xN09b363=215_A:0xO09b363=215_A:0xM09b364=215_A:0xN09b364=215_A:0xO09b364=215_A:0xM09b365=215_A:0xN09b365=215_A:0xO09b365=215_A:0xM09b366=215_A:0xN09b366=215_A:0xO09b366=215_A:0xM09b367=215_A:0xN09b367=215_A:0xO09b367=215_A:0xM09b368=215_A:0xN09b368=215_A:0xO09b368=215_A:0xM09b369=215_A:0xN09b369=215_A:0xO09b369=215_A:0xM09b36a=215_A:0xN09b36a=215_A:0xO09b36a=215_A:0xM09b36b=215_A:0xN09b36b=215_M:0xO09b36b=36_A:d0xM09b360=215_A:d0xN09b360=215_A:d0xO09b360=215_A:d0xM09b361=215_A:d0xN09b361=215_A:d0xO09b361=215_A:d0xM09b362=215_A:d0xN09b362=215_A:d0xO09b362=215_A:d0xM09b363=215_A:d0xN09b363=215_A:d0xO09b363=215_A:d0xM09b364=215_A:d0xN09b364=215_A:d0xO09b364=215_A:d0xM09b365=215_A:d0xN09b365=215_A:d0xO09b365=215_A:d0xM09b366=215_A:d0xN09b366=215_A:d0xO09b366=215_A:d0xM09b367=215_A:d0xN09b367=215_A:d0xO09b367=215_A:d0xM09b368=215_A:d0xN09b368=215_A:d0xO09b368=215_A:d0xM09b369=215_A:d0xN09b369=215_A:d0xO09b369=215_A:d0xM09b36a=215_A:d0xN09b36a=215_A:d0xO09b36a=215_A:d0xM09b36b=215_A:d0xN09b36b=215_d0xO09b36b<=35_A:d0xM09b360=215_A:d0xN09b360=215_A:d0xO09b360=215_A:d0xM09b361=215_A:d0xN09b361=215_A:d0xO09b361=215_A:d0xM09b362=215_A:d0xN09b362=215_A:d0xO09b362=215_A:d0xM09b363=215_A:d0xN09b363=215_A:d0xO09b363=215_A:d0xM09b364=215_A:d0xN09b364=215_A:d0xO09b364=215_A:d0xM09b365=215_A:d0xN09b365=215_A:d0xO09b365=215_A:d0xM09b366=215_A:d0xN09b366=215_A:d0xO09b366=215_A:d0xM09b367=215_A:d0xN09b367=215_A:d0xO09b367=215_A:d0xM09b368=215_A:d0xN09b368=215_A:d0xO09b368=215_A:d0xM09b369=215_A:d0xN09b369=215_A:d0xO09b369=215_A:d0xM09b36a=215_A:d0xN09b36a=215_A:d0xO09b36a=215_A:d0xM09b36b=215_A:d0xN09b36b=215_d0xO09b36b>=33"
     },
     {
       "achievementId": 104978,
       "title": "On Top of the Volcanos",
       "description": "In a single session, reach the top of every flagpole in World 8.",
       "points": 10,
-      "trueRatio": 51,
+      "trueRatio": 52,
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116386.png",
-      "numAwarded": 726,
-      "numAwardedHardcore": 650,
+      "numAwarded": 768,
+      "numAwardedHardcore": 687,
       "displayOrder": 24,
-      "memAddr": "d02b0b5d384924324925b1402550c909"
+      "memAddr": "N:0xH098058=7_N:0xH098054=0_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=7_N:0xH098054=1_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=7_N:0xH098054=2_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=7_N:0xH098054=3_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=7_N:0xH098054=4_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=7_N:0xH098054=5_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=7_N:0xH098054=6_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._N:0xH098058=7_N:0xH098054=7_N:0xH098108=0_N:0xX0dcb4c!=0_I:0xW0dcb4c_N:0xH0000c4=9_I:0xW09dbf8_C:0xH000718=44.1._M:0=1.8."
     },
     {
       "achievementId": 104979,
       "title": "This is Mushroom Kingdom",
       "description": "Clear all exits and use every Cannon at least once.",
       "points": 25,
-      "trueRatio": 98,
+      "trueRatio": 97,
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116387.png",
-      "numAwarded": 1030,
-      "numAwardedHardcore": 897,
+      "numAwarded": 1104,
+      "numAwardedHardcore": 956,
       "displayOrder": 25,
-      "memAddr": "8704aa2d836daa2db0d029146c27b02d"
+      "memAddr": "A:0xS09b379=192_A:0xS09b37a=192_A:0xS09b37c=192_A:0xS09b37b=192_A:0xS09b37d=192_A:0xS09b37e=192_A:0xS09b380=192_A:0xS09b384=192_A:0xS09b388=192_A:0xT09b2b7=215_A:0xS09b397=192_A:0xS09b398=192_A:0xS09b399=192_A:0xS09b39a=192_A:0xS09b39b=192_A:0xS09b39d=192_A:0xS09b39f=192_A:0xS09b3a1=192_A:0xS09b3a2=192_A:0xS09b3a3=192_A:0xS09b3a5=192_A:0xT09b2d3=215_A:0xS09b3b6=215_A:0xS09b3b8=215_A:0xS09b3b9=215_A:0xS09b3bb=215_A:0xS09b3bc=215_A:0xS09b3c0=215_A:0xS09b3c1=215_A:0xS09b3c4=215_A:0xS09b3c6=215_A:0xS09b3c7=215_A:0xT09b2ec=215_A:0xS09b3d3=215_A:0xS09b3d4=215_A:0xS09b3d5=215_A:0xS09b3d6=215_A:0xS09b3d8=215_A:0xS09b3da=215_A:0xS09b3db=215_A:0xS09b3dc=215_A:0xS09b3de=215_A:0xS09b3e2=215_A:0xS09b3e3=215_A:0xT09b306=215_A:0xS09b3f1=215_A:0xS09b3f3=215_A:0xS09b3f5=215_A:0xS09b3f7=215_A:0xS09b3f8=215_A:0xS09b3fa=215_A:0xS09b3fb=215_A:0xS09b3fd=215_A:0xS09b401=215_A:0xS09b403=215_A:0xS09b404=215_A:0xS09b405=215_A:0xT09b31f=215_A:0xS09b410=192_A:0xS09b412=192_A:0xS09b413=192_A:0xS09b414=192_A:0xS09b415=192_A:0xS09b416=192_A:0xS09b418=192_A:0xS09b419=192_A:0xS09b41c=192_A:0xS09b423=192_A:0xT09b339=192_A:0xS09b42d=192_A:0xS09b42e=192_A:0xS09b42f=192_A:0xS09b430=192_A:0xS09b431=192_A:0xS09b432=192_A:0xS09b433=192_A:0xS09b434=192_A:0xS09b439=192_A:0xS09b43b=192_A:0xS09b43d=192_A:0xS09b43e=192_A:0xS09b43f=192_A:0xS09b440=192_A:0xT09b350=215_A:0xS09b44b=192_A:0xS09b44c=192_A:0xS09b44d=192_A:0xS09b44e=192_A:0xS09b44f=192_A:0xS09b450=192_A:0xS09b451=192_A:0xS09b452=192_A:0xS09b453=192_A:0xS09b454=192_A:0xS09b455=192_A:0xT09b36b=96_A:0xT09b2b9=128_A:0xT09b2d6=128_A:0xT09b2f3=128_A:0xT09b30b=128_M:0xT09b328=101_A:d0xS09b379=192_A:d0xS09b37a=192_A:d0xS09b37b=192_A:d0xS09b37c=192_A:d0xS09b37d=192_A:d0xS09b37e=192_A:d0xS09b380=192_A:d0xS09b384=192_A:d0xS09b388=192_A:d0xT09b2b7=215_A:d0xS09b397=192_A:d0xS09b398=192_A:d0xS09b399=192_A:d0xS09b39a=192_A:d0xS09b39b=192_A:d0xS09b39d=192_A:d0xS09b39f=192_A:d0xS09b3a1=192_A:d0xS09b3a2=192_A:d0xS09b3a3=192_A:d0xS09b3a5=192_A:d0xT09b2d3=215_A:d0xS09b3b6=215_A:d0xS09b3b8=215_A:d0xS09b3b9=215_A:d0xS09b3bb=215_A:d0xS09b3bc=215_A:d0xS09b3c0=215_A:d0xS09b3c1=215_A:d0xS09b3c4=215_A:d0xS09b3c6=215_A:d0xS09b3c7=215_A:d0xT09b2ec=215_A:d0xS09b3d3=215_A:d0xS09b3d4=215_A:d0xS09b3d5=215_A:d0xS09b3d6=215_A:d0xS09b3d8=215_A:d0xS09b3da=215_A:d0xS09b3db=215_A:d0xS09b3dc=215_A:d0xS09b3de=215_A:d0xS09b3e2=215_A:d0xS09b3e3=215_A:d0xT09b306=215_A:d0xS09b3f1=215_A:d0xS09b3f3=215_A:d0xS09b3f5=215_A:d0xS09b3f7=215_A:d0xS09b3f8=215_A:d0xS09b3fa=215_A:d0xS09b3fb=215_A:d0xS09b3fd=215_A:d0xS09b401=215_A:d0xS09b403=215_A:d0xS09b404=215_A:d0xS09b405=215_A:d0xT09b31f=215_A:d0xS09b410=192_A:d0xS09b412=192_A:d0xS09b413=192_A:d0xS09b414=192_A:d0xS09b415=192_A:d0xS09b416=192_A:d0xS09b418=192_A:d0xS09b419=192_A:d0xS09b41c=192_A:d0xS09b423=192_A:d0xT09b339=192_A:d0xS09b42d=192_A:d0xS09b42e=192_A:d0xS09b42f=192_A:d0xS09b430=192_A:d0xS09b431=192_A:d0xS09b432=192_A:d0xS09b433=192_A:d0xS09b434=192_A:d0xS09b439=192_A:d0xS09b43b=192_A:d0xS09b43d=192_A:d0xS09b43e=192_A:d0xS09b43f=192_A:d0xS09b440=192_A:d0xT09b350=215_A:d0xS09b44b=192_A:d0xS09b44c=192_A:d0xS09b44d=192_A:d0xS09b44e=192_A:d0xS09b44f=192_A:d0xS09b450=192_A:d0xS09b451=192_A:d0xS09b452=192_A:d0xS09b453=192_A:d0xS09b454=192_A:d0xS09b455=192_A:d0xT09b36b=96_A:d0xT09b2b9=128_A:d0xT09b2d6=128_A:d0xT09b2f3=128_A:d0xT09b30b=128_d0xT09b328=100"
     },
     {
       "achievementId": 104980,
       "title": "Back to the Plumber Job",
       "description": "Collect all 240 Star Coins and spend all of them.",
       "points": 25,
-      "trueRatio": 98,
+      "trueRatio": 97,
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116388.png",
-      "numAwarded": 1038,
-      "numAwardedHardcore": 896,
+      "numAwarded": 1120,
+      "numAwardedHardcore": 958,
       "displayOrder": 26,
-      "memAddr": "38b1c61d859868a8b48631ba13526483"
+      "memAddr": "A:0xX09b258=240_M:0xX09b25c=480_d0xX09b25c<240_d0xX09b25c>140"
     },
     {
       "achievementId": 104981,
@@ -515,10 +515,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116389.png",
-      "numAwarded": 5963,
-      "numAwardedHardcore": 4373,
+      "numAwarded": 6401,
+      "numAwardedHardcore": 4642,
       "displayOrder": 28,
-      "memAddr": "563bfdc4123066aa747a9a8edf12ec4d"
+      "memAddr": "0xH000000=0xH000000_0xH0980b8=1S0xH09b260=0_0xH09b2b0=0_d0xH09b2b0!=0S0xH09b260=1_0xH09b2c9=0_d0xH09b2c9!=0S0xH09b260=2_0xH09b2e2=0_d0xH09b2e2!=0S0xH09b260=3_0xH09b2fb=0_d0xH09b2fb!=0S0xH09b260=4_0xH09b314=0_d0xH09b314!=0S0xH09b260=5_0xH09b32d=0_d0xH09b32d!=0S0xH09b260=6_0xH09b346=0_d0xH09b346!=0S0xH09b260=7_0xH09b35f=0_d0xH09b35f!=0"
     },
     {
       "achievementId": 104982,
@@ -529,10 +529,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116390.png",
-      "numAwarded": 3302,
-      "numAwardedHardcore": 2563,
+      "numAwarded": 3508,
+      "numAwardedHardcore": 2696,
       "displayOrder": 29,
-      "memAddr": "420ff62bc4bfe17bf9f4f50c29796fb1"
+      "memAddr": "R:0xX000980d4!=178_R:0xX0009b1c4!=25_d0xH000a23a4=0ST:0xX000a23a4=53_O:0xM00099cb5>d0xM00099cb5_O:0xN00099cb5>d0xN00099cb5_O:0xS00099cb4>d0xS00099cb4_N:0xT00099cb4>d0xT00099cb4_Z:0x 000a23a6=1_N:d0xM00099cb5=0_N:d0xS00099cb4=0_N:d0xT00099cb4=0_T:d0xN00099cb5=1.1.ST:0xX000a23a4=54_O:0xM00099cb5>d0xM00099cb5_O:0xN00099cb5>d0xN00099cb5_O:0xS00099cb4>d0xS00099cb4_N:0xT00099cb4>d0xT00099cb4_Z:0x 000a23a6=1_N:d0xN00099cb5=0_N:d0xS00099cb4=0_N:d0xT00099cb4=0_T:d0xM00099cb5=1.1.ST:0xX000a23a4=55_O:0xM00099cb5>d0xM00099cb5_O:0xN00099cb5>d0xN00099cb5_O:0xS00099cb4>d0xS00099cb4_N:0xT00099cb4>d0xT00099cb4_Z:0x 000a23a6=1_N:d0xM00099cb5=0_N:d0xN00099cb5=0_N:d0xS00099cb4=0_T:d0xT00099cb4=1.1.ST:0xX000a23a4=56_O:0xM00099cb5>d0xM00099cb5_O:0xN00099cb5>d0xN00099cb5_O:0xS00099cb4>d0xS00099cb4_N:0xT00099cb4>d0xT00099cb4_Z:0x 000a23a6=1_N:d0xM00099cb5=0_N:d0xN00099cb5=0_N:d0xT00099cb4=0_T:d0xS00099cb4=1.1."
     },
     {
       "achievementId": 104983,
@@ -543,10 +543,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116391.png",
-      "numAwarded": 5420,
-      "numAwardedHardcore": 4020,
+      "numAwarded": 5759,
+      "numAwardedHardcore": 4217,
       "displayOrder": 30,
-      "memAddr": "41dc06cc86debab54b76adc8b75e2037"
+      "memAddr": "0xH000000=0xH000000_0xH0980b8=1S0xH09b260=0_0xH09b2b0=1_d0xH09b2b0!=1S0xH09b260=1_0xH09b2c9=1_d0xH09b2c9!=1S0xH09b260=2_0xH09b2e2=1_d0xH09b2e2!=1S0xH09b260=3_0xH09b2fb=1_d0xH09b2fb!=1S0xH09b260=4_0xH09b314=1_d0xH09b314!=1S0xH09b260=5_0xH09b32d=1_d0xH09b32d!=1S0xH09b260=6_0xH09b346=1_d0xH09b346!=1S0xH09b260=7_0xH09b35f=1_d0xH09b35f!=1"
     },
     {
       "achievementId": 104984,
@@ -557,10 +557,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116392.png",
-      "numAwarded": 3884,
-      "numAwardedHardcore": 2822,
+      "numAwarded": 4150,
+      "numAwardedHardcore": 2975,
       "displayOrder": 31,
-      "memAddr": "cb06fae2a3322917c2de12d0b84903b8"
+      "memAddr": "R:0xX0980d4!=177_d0xX09b1c4=25_0xX09b1c4=29"
     },
     {
       "achievementId": 104985,
@@ -571,10 +571,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116393.png",
-      "numAwarded": 5456,
-      "numAwardedHardcore": 3948,
+      "numAwarded": 5867,
+      "numAwardedHardcore": 4187,
       "displayOrder": 32,
-      "memAddr": "dfa8819d631d448fe37d876154fb6c3f"
+      "memAddr": "0xH000000=0xH000000_0xH0980b8=1S0xH09b260=0_0xH09b2b0=2_d0xH09b2b0!=2S0xH09b260=1_0xH09b2c9=2_d0xH09b2c9!=2S0xH09b260=2_0xH09b2e2=2_d0xH09b2e2!=2S0xH09b260=3_0xH09b2fb=2_d0xH09b2fb!=2S0xH09b260=4_0xH09b314=2_d0xH09b314!=2S0xH09b260=5_0xH09b32d=2_d0xH09b32d!=2S0xH09b260=6_0xH09b346=2_d0xH09b346!=2S0xH09b260=7_0xH09b35f=2_d0xH09b35f!=2"
     },
     {
       "achievementId": 104986,
@@ -585,10 +585,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116394.png",
-      "numAwarded": 3022,
-      "numAwardedHardcore": 2401,
+      "numAwarded": 3214,
+      "numAwardedHardcore": 2544,
       "displayOrder": 33,
-      "memAddr": "3b771536cd6fbfb83cc7e99a55d17a6b"
+      "memAddr": "0xH1c1fe7=3_0xX09dbd8=1000"
     },
     {
       "achievementId": 104987,
@@ -599,10 +599,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116395.png",
-      "numAwarded": 2756,
-      "numAwardedHardcore": 2141,
+      "numAwarded": 2934,
+      "numAwardedHardcore": 2266,
       "displayOrder": 34,
-      "memAddr": "0901b90a903ef3fe63ac7b5db63a6c49"
+      "memAddr": "R:0xH098090!=1_R:0xX098060>1SI:0xW0dcb4c_N:0xH0000c4<=9_I:0xW0dcb4c_0xH0000c4>=1_I:0xW0dcb4c_d0xH0000c4=0SC:0xX09b1c4=7.20._C:0xX09b1c4=15.20._0xX09b1c4=21.20._N:0xX09b1c4>=19_N:0xX09b1c4!=20_N:0xX09b1c4!=21_0xX09b1c4<=22SZ:0xH1c1fe7!=3_N:0xH1c1fe7=3_N:d0xX09b1c4=3_0xX09b1c4=4294967295.1._N:0xH1c1fe7=3_N:d0xX09b1c4=4294967295_O:0xX09b1c4=4_0xX09b1c4=28"
     },
     {
       "achievementId": 104988,
@@ -613,10 +613,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116396.png",
-      "numAwarded": 1015,
-      "numAwardedHardcore": 902,
+      "numAwarded": 1075,
+      "numAwardedHardcore": 954,
       "displayOrder": 35,
-      "memAddr": "d3aaa14064f8f2203be2b8ddc7f2b254"
+      "memAddr": "0xX098050=1_0xT0980a0=0_I:0xW0dcb4c_N:0xH0000c4<=9_I:0xW0dcb4c_0xH0000c4>=1_I:0xW0dcb4c_d0xH0000c4=0"
     },
     {
       "achievementId": 104989,
@@ -627,10 +627,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116397.png",
-      "numAwarded": 3340,
-      "numAwardedHardcore": 2634,
+      "numAwarded": 3544,
+      "numAwardedHardcore": 2771,
       "displayOrder": 36,
-      "memAddr": "fc2083eb8617a90586c7508fdbfc988b"
+      "memAddr": "N:0xH1c1fe7=3_N:d0xX09b1c4=3_0xX09b1c4=4294967295.1._R:0xH1c1fe7!=3_N:d0xX09b1c4=3_N:d0xX09b1c4=4_N:d0xX09b1c4=28_R:d0xX09b1c4=4294967295SN:0xH1c1fe7=3_N:d0xX09b1c4=4294967295_0xX09b1c4=4SN:0xH1c1fe7=3_N:d0xX09b1c4=4294967295_0xX09b1c4=28"
     },
     {
       "achievementId": 104990,
@@ -641,10 +641,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116398.png",
-      "numAwarded": 1566,
-      "numAwardedHardcore": 1272,
+      "numAwarded": 1653,
+      "numAwardedHardcore": 1342,
       "displayOrder": 37,
-      "memAddr": "7858903b39c992ad5fd2298c129341f6"
+      "memAddr": "I:0xW0dcb4c=35394216_N:0xH0000c4<=9_I:0xW0dcb4c=35394216_0xH0000c4>=1_I:0xW0dcb4c=35394216_d0xH0000c4=0_0x 09dbec>0_0xW0dcb4c=d0xW0dcb4c"
     },
     {
       "achievementId": 104991,
@@ -655,10 +655,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116399.png",
-      "numAwarded": 7552,
-      "numAwardedHardcore": 5241,
+      "numAwarded": 8124,
+      "numAwardedHardcore": 5568,
       "displayOrder": 38,
-      "memAddr": "c2cb41a3144899447f1c19293fbdf612"
+      "memAddr": "R:0xX000980d4!=d0xX000980d4_0xH0009dc18!=d0xH0009dc18.1._I:0xW0009dbf8_I:0xW00000028_0x 000000d0=0_0xH000dc3d8>10_B:d0xH000dc3d8_0xH000dc3d8=1"
     },
     {
       "achievementId": 104992,
@@ -669,10 +669,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116400.png",
-      "numAwarded": 8769,
-      "numAwardedHardcore": 6107,
+      "numAwarded": 9412,
+      "numAwardedHardcore": 6469,
       "displayOrder": 39,
-      "memAddr": "fc5072cf406b38a895c02227af592a38"
+      "memAddr": "0xH000000=0xH000000S0xX09d880>0_N:d0xH0dc374>=7_d0xH0dc374<=8_0xH0dc374=0S0xX09d868>0_N:d0xH0dc374>=7_d0xH0dc374<=8_0xH0dc374=0S0xX09d828>0_N:d0xH0dc375>=7_d0xH0dc375<=8_0xH0dc375=0"
     },
     {
       "achievementId": 104993,
@@ -683,10 +683,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116401.png",
-      "numAwarded": 3888,
-      "numAwardedHardcore": 3033,
+      "numAwarded": 4151,
+      "numAwardedHardcore": 3206,
       "displayOrder": 40,
-      "memAddr": "fec2a2d3df045136bdbb7a63efdb3479"
+      "memAddr": "0xH1c1fe7=2.10._0xH1c1fe7=2_R:0xX0980d4!=d0xX0980d4_0xH098060=0S0xX0980d4=19_0xH1bf16d=0_d0xH1bf16d=1_0xH1bf228=0_d0xH1bf228=1S0xX0980d4=176_0xH1bfc15=0_d0xH1bfc15=1_0xH1bfcd0=0_d0xH1bfcd0=1"
     },
     {
       "achievementId": 104994,
@@ -697,10 +697,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116402.png",
-      "numAwarded": 1260,
-      "numAwardedHardcore": 1090,
+      "numAwarded": 1330,
+      "numAwardedHardcore": 1148,
       "displayOrder": 41,
-      "memAddr": "4971c800678517df7a45755a0f179de2"
+      "memAddr": "0xH1c1fe7=5.10._0xH1c1fe7=5_R:0xX0980d4!=d0xX0980d4_B:0xH1c0786=0xH000000_d0xH1c0786!=1_B:0xH1c0786=0xH000000_d0xH1c0786!=2_0xH098060=0S0xX0980d4=19_0xH1bf16d=0_d0xH1bf16d>=1_d0xH1bf16d<=3_0xH1bf228=0_d0xH1bf228=1S0xX0980d4=173_0xH1c0635=0_d0xH1c0635>=1_d0xH1c0635<=3_0xH1c06f0=0_d0xH1c06f0=1S0xX0980d4=176_0xH1bfc15=0_d0xH1bfc15>=1_d0xH1bfc15<=10_0xH1bfcd0=0_d0xH1bfcd0=1"
     },
     {
       "achievementId": 104995,
@@ -711,136 +711,136 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116403.png",
-      "numAwarded": 2042,
-      "numAwardedHardcore": 1721,
+      "numAwarded": 2168,
+      "numAwardedHardcore": 1826,
       "displayOrder": 42,
-      "memAddr": "12cc8a06b71d242869116489e8841529"
+      "memAddr": "0xH1c1fe7=3.10._0xH1c1fe7=3_R:0xX0980d4!=d0xX0980d4_B:0xH1c0786=0_d0xH1c0786!=1_B:0xH1c0786=0_d0xH1c0786!=2_0xH098060=0S0xX0980d4=19_0xH1bf16d<=9_0xH1bf16d>=1_0xH1bf228=0_d0xH1bf228=1S0xX0980d4=173_0xH1c0635<=9_0xH1c0635>=1_0xH1c06f0=0_d0xH1c06f0=1S0xX0980d4=176_0xH1bfc15<=30_0xH1bfc15>=1_0xH1bfcd0=0_d0xH1bfcd0=1"
     },
     {
       "achievementId": 510915,
       "title": "Disrespect the Koopa King",
       "description": "In the first world, defeat Bowser as mini Mario.",
       "points": 5,
-      "trueRatio": 18,
+      "trueRatio": 17,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578098.png",
-      "numAwarded": 1186,
-      "numAwardedHardcore": 983,
+      "numAwarded": 1303,
+      "numAwardedHardcore": 1076,
       "displayOrder": 42,
-      "memAddr": "60357127cfbec630ccc50d9a21671533"
+      "memAddr": "0xX000980d4=19_0xH001c1fe7=4_d0xX001d2464=1_0xX001d2464=3"
     },
     {
       "achievementId": 510916,
       "title": "Not That Tall",
       "description": "Defeat Mummipokey as mini Mario.",
       "points": 5,
-      "trueRatio": 13,
+      "trueRatio": 12,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578099.png",
-      "numAwarded": 1793,
-      "numAwardedHardcore": 1434,
+      "numAwarded": 2006,
+      "numAwardedHardcore": 1594,
       "displayOrder": 42,
-      "memAddr": "8de32232d6aa92d13ad9871cbbf3a8eb"
+      "memAddr": "0xX000980d4=42_0xH001c1fe7=4_d0xX001d2464=1_0xX001d2464=3"
     },
     {
       "achievementId": 510917,
       "title": "Don't Become Fish Food",
       "description": "Defeat Cheepskipper as mini Mario.",
       "points": 5,
-      "trueRatio": 29,
+      "trueRatio": 28,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578100.png",
-      "numAwarded": 670,
-      "numAwardedHardcore": 573,
+      "numAwarded": 733,
+      "numAwardedHardcore": 630,
       "displayOrder": 42,
-      "memAddr": "a76b269ad2dcba023c4e295d90d6dfad"
+      "memAddr": "0xX000980d4=64_0xH001c1fe7=4_d0xX001d2464=1_0xX001d2464=3"
     },
     {
       "achievementId": 510918,
       "title": "Lilliputian Against a Giant",
       "description": "Defeat Mega Goomba as mini Mario.",
       "points": 5,
-      "trueRatio": 28,
+      "trueRatio": 27,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578101.png",
-      "numAwarded": 677,
-      "numAwardedHardcore": 588,
+      "numAwarded": 740,
+      "numAwardedHardcore": 641,
       "displayOrder": 42,
-      "memAddr": "ef7291aa11e65c5f03f97ed392710590"
+      "memAddr": "0xX000980d4=86_0xH001c1fe7=4_d0xX001d2464=1_0xX001d2464=3"
     },
     {
       "achievementId": 510919,
       "title": "Fly Defeats Flytrap",
       "description": "Defeat Petey Piranha as mini Mario.",
       "points": 5,
-      "trueRatio": 23,
+      "trueRatio": 22,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578102.png",
-      "numAwarded": 899,
-      "numAwardedHardcore": 743,
+      "numAwarded": 994,
+      "numAwardedHardcore": 820,
       "displayOrder": 42,
-      "memAddr": "875bc83fde59dea7dc8684702ce8469e"
+      "memAddr": "0xX000980d4=105_0xH001c1fe7=4_d0xX001d2464=1_0xX001d2464=3"
     },
     {
       "achievementId": 510920,
       "title": "A Tank Won't Protect You",
       "description": "Defeat Monty Tank as mini Mario.",
       "points": 5,
-      "trueRatio": 31,
+      "trueRatio": 30,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578103.png",
-      "numAwarded": 596,
-      "numAwardedHardcore": 517,
+      "numAwarded": 653,
+      "numAwardedHardcore": 568,
       "displayOrder": 42,
-      "memAddr": "64e3597bb24e450dc9ca6829e5c5177c"
+      "memAddr": "0xX000980d4=127_0xH001c1fe7=4_d0xX001d2464=1_0xX001d2464=3"
     },
     {
       "achievementId": 510921,
       "title": "Lean and Mean",
       "description": "Defeat Lakithunder as mini Mario.",
       "points": 5,
-      "trueRatio": 33,
+      "trueRatio": 32,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578104.png",
-      "numAwarded": 562,
-      "numAwardedHardcore": 486,
+      "numAwarded": 619,
+      "numAwardedHardcore": 534,
       "displayOrder": 42,
-      "memAddr": "ece1a12f0342d14c8153597a99b40c97"
+      "memAddr": "0xX000980d4=151_0xH001c1fe7=4_d0xX001d2464=1_0xX001d2464=3"
     },
     {
       "achievementId": 510922,
       "title": "Pounded Into Dust",
       "description": "Defeat Dry Bowser as mini Mario.",
       "points": 5,
-      "trueRatio": 32,
+      "trueRatio": 31,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578105.png",
-      "numAwarded": 595,
-      "numAwardedHardcore": 512,
+      "numAwarded": 657,
+      "numAwardedHardcore": 562,
       "displayOrder": 42,
-      "memAddr": "26a83c806b51f07f2f0bef885d763a10"
+      "memAddr": "0xX000980d4=173_0xH001c1fe7=4_d0xX001d2464=1_0xX001d2464=3"
     },
     {
       "achievementId": 510923,
       "title": "Finishing Smaller than You Started",
       "description": "Defeat Bowser Jr and the revived Bowser as mini Mario.",
       "points": 5,
-      "trueRatio": 34,
+      "trueRatio": 33,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578106.png",
-      "numAwarded": 556,
-      "numAwardedHardcore": 476,
+      "numAwarded": 608,
+      "numAwardedHardcore": 519,
       "displayOrder": 42,
-      "memAddr": "81f13c7979a92e067fab2c46b57baf39"
+      "memAddr": "0xX000980d4=176_0xH001c1fe7=4_d0xX001d2464=1_0xX001d2464=3"
     },
     {
       "achievementId": 105043,
@@ -851,10 +851,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116404.png",
-      "numAwarded": 2083,
-      "numAwardedHardcore": 1711,
+      "numAwarded": 2217,
+      "numAwardedHardcore": 1814,
       "displayOrder": 43,
-      "memAddr": "b73d5eba8bb267d44b5f563c62613b0b"
+      "memAddr": "0xH1c1fe7=4_0xH098054=0_0xH098058=1_p0xX0980d4=21_0xX0980d4=23_0xX09b1c4=10"
     },
     {
       "achievementId": 105044,
@@ -865,10 +865,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116405.png",
-      "numAwarded": 1654,
-      "numAwardedHardcore": 1375,
+      "numAwarded": 1765,
+      "numAwardedHardcore": 1465,
       "displayOrder": 44,
-      "memAddr": "569f88b74c9a1836ad263625c8b188f4"
+      "memAddr": "0xH1c1fe7=4_0xH098054=3_0xH098058=2_p0xX0980d4=51_0xX0980d4=53_0xX09b1c4=10"
     },
     {
       "achievementId": 105045,
@@ -879,38 +879,38 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116406.png",
-      "numAwarded": 1009,
-      "numAwardedHardcore": 893,
+      "numAwarded": 1063,
+      "numAwardedHardcore": 943,
       "displayOrder": 45,
-      "memAddr": "c68579fed87d36caec63dfe9840b5273"
+      "memAddr": "0xH1c1fe7=4_0xH098054=3_0xH098058=3_p0xX0980d4=71_0xX0980d4=72_0xX09b1c4=10"
     },
     {
       "achievementId": 105046,
       "title": "Snailicorn's Secret",
       "description": "Enter the Secret Room in W5-3.",
       "points": 3,
-      "trueRatio": 10,
+      "trueRatio": 11,
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116407.png",
-      "numAwarded": 1145,
-      "numAwardedHardcore": 973,
+      "numAwarded": 1206,
+      "numAwardedHardcore": 1028,
       "displayOrder": 46,
-      "memAddr": "d1381abcf24b807ea2b16cf54784242a"
+      "memAddr": "0xH1c1fe7=4_0xH098054=2_0xH098058=4_p0xX0980d4=91_0xX0980d4=92_0xX09b1c4=10"
     },
     {
       "achievementId": 105047,
       "title": "Bullet Bill's Secret",
       "description": "Enter the Secret Room in W6-1.",
       "points": 3,
-      "trueRatio": 10,
+      "trueRatio": 11,
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116408.png",
-      "numAwarded": 1127,
-      "numAwardedHardcore": 974,
+      "numAwarded": 1190,
+      "numAwardedHardcore": 1029,
       "displayOrder": 47,
-      "memAddr": "5c8a8fb0037204e3e3971fb7914cbc3a"
+      "memAddr": "0xH1c1fe7=4_0xH098054=0_0xH098058=5_p0xX0980d4=107_0xX0980d4=108_0xX09b1c4=10"
     },
     {
       "achievementId": 105048,
@@ -921,24 +921,24 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116574.png",
-      "numAwarded": 1084,
-      "numAwardedHardcore": 934,
+      "numAwarded": 1155,
+      "numAwardedHardcore": 990,
       "displayOrder": 48,
-      "memAddr": "0bef5854bee59bf0681dd8cbd86f6a29"
+      "memAddr": "0xH1c1fe7=4_0xH098054=1_0xH098058=7_p0xX0980d4=155_0xX0980d4=156_0xX09b1c4=10"
     },
     {
       "achievementId": 105049,
       "title": "My Own Small Oasis",
       "description": "Leave your path through a beachy Level and receive some coins as a reward.",
       "points": 4,
-      "trueRatio": 14,
+      "trueRatio": 15,
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116410.png",
-      "numAwarded": 1068,
-      "numAwardedHardcore": 948,
+      "numAwarded": 1123,
+      "numAwardedHardcore": 998,
       "displayOrder": 48,
-      "memAddr": "0a3fd39f09585e6713444877718eecd4"
+      "memAddr": "0xX098054=6_0xX098058=1_p0xX0980d4=34_0xX0980d4=35_I:0xW09dbf8_0xX00005c>1138688_I:0xW09dbf8_0xX00005c<1538944_I:0xW09dbf8_0xX000060>4291821568_I:0xW09dbf8_0xX000060<4292870144_0xH09dc18!=d0xH09dc18"
     },
     {
       "achievementId": 105050,
@@ -949,10 +949,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116411.png",
-      "numAwarded": 1732,
-      "numAwardedHardcore": 1403,
+      "numAwarded": 1852,
+      "numAwardedHardcore": 1485,
       "displayOrder": 50,
-      "memAddr": "eb0b4a1d46617882d9b64757ab604d73"
+      "memAddr": "0xX098054=1_0xX098058=4_0xX0980d4=90_I:0xW09dbf8_0xX00005c<2330623_I:0xW09dbf8_0xX000060>4293662464_0xH09dc18!=d0xH09dc18"
     },
     {
       "achievementId": 105051,
@@ -963,38 +963,38 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116412.png",
-      "numAwarded": 1912,
-      "numAwardedHardcore": 1657,
+      "numAwarded": 2053,
+      "numAwardedHardcore": 1758,
       "displayOrder": 51,
-      "memAddr": "01671eddedc49bedbd22bb25670c1673"
+      "memAddr": "R:0xX098054!=7_R:0xX098058!=0_R:0xX0980d4!=17_I:0xW09dbf8_N:0xX00005c>=6434816_I:0xW09dbf8_0xX00005c<=6674933.10._I:0xW09dbf8_T:0xX00005c>=11149312_I:0xW09dbf8_T:0xX00005c<=11525584_N:0xX1bd784=0_R:d0xX1bd784>4294901760_0xX0980b8=0"
     },
     {
       "achievementId": 105052,
       "title": "Greedy Disco Shell",
       "description": "Collect 50 Coins in W2-1 while doing only one Shellslide.",
       "points": 10,
-      "trueRatio": 44,
+      "trueRatio": 45,
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116413.png",
-      "numAwarded": 872,
-      "numAwardedHardcore": 775,
+      "numAwarded": 906,
+      "numAwardedHardcore": 809,
       "displayOrder": 52,
-      "memAddr": "d9981181faaf63dace8c77af8330d8ee"
+      "memAddr": "R:0xX00098054!=0_R:0xX00098058!=1_R:0xX000980d4!=21_R:0xH001c1fe7!=5_R:0xS001c1fb6!=1_R:0xH0009dc00<d0xH0009dc00_A:0xH0009dbc4_R:0xH001c1fec=2_P:0xH000dc90c=1_0xH000980b8=0SC:0xH0009dc18!=d0xH0009dc18_B:d0xH0009dc18_C:0xH0009dc18=2_N:d0xH0009dc18=98_C:0xH0009dc18=0_N:d0xH0009dc18=99_C:0xH0009dc18=1_B:d0xH0009dc18_C:0xH0009dc18=3_B:d0xH0009dc18_C:0xH0009dc18=3_N:d0xH0009dc18=97_C:0xH0009dc18=0_N:d0xH0009dc18=97_C:0xH0009dc18=0_N:d0xH0009dc18=98_C:0xH0009dc18=1_N:d0xH0009dc18=98_C:0xH0009dc18=1_N:d0xH0009dc18=99_C:0xH0009dc18=2_N:d0xH0009dc18=99_C:0xH0009dc18=2_N:d0xH0009dc18=96_C:0xH0009dc18=0_N:d0xH0009dc18=96_C:0xH0009dc18=0_N:d0xH0009dc18=96_C:0xH0009dc18=0_N:d0xH0009dc18=97_C:0xH0009dc18=1_N:d0xH0009dc18=97_C:0xH0009dc18=1_N:d0xH0009dc18=97_C:0xH0009dc18=1_N:d0xH0009dc18=98_C:0xH0009dc18=2_N:d0xH0009dc18=98_C:0xH0009dc18=2_N:d0xH0009dc18=98_C:0xH0009dc18=2_N:d0xH0009dc18=99_C:0xH0009dc18=3_N:d0xH0009dc18=99_C:0xH0009dc18=3_N:d0xH0009dc18=99_C:0xH0009dc18=3_N:d0xH0009dc18=95_C:0xH0009dc18=0_N:d0xH0009dc18=95_C:0xH0009dc18=0_N:d0xH0009dc18=95_C:0xH0009dc18=0_N:d0xH0009dc18=95_C:0xH0009dc18=0_N:d0xH0009dc18=96_C:0xH0009dc18=1_N:d0xH0009dc18=96_C:0xH0009dc18=1_N:d0xH0009dc18=96_C:0xH0009dc18=1_N:d0xH0009dc18=96_C:0xH0009dc18=1_N:d0xH0009dc18=97_C:0xH0009dc18=2_N:d0xH0009dc18=97_C:0xH0009dc18=2_N:d0xH0009dc18=97_C:0xH0009dc18=2_N:d0xH0009dc18=97_C:0xH0009dc18=2_N:d0xH0009dc18=98_C:0xH0009dc18=3_N:d0xH0009dc18=98_C:0xH0009dc18=3_N:d0xH0009dc18=98_C:0xH0009dc18=3_N:d0xH0009dc18=98_C:0xH0009dc18=3_N:d0xH0009dc18=99_C:0xH0009dc18=4_N:d0xH0009dc18=99_C:0xH0009dc18=4_N:d0xH0009dc18=99_C:0xH0009dc18=4_N:d0xH0009dc18=99_C:0xH0009dc18=4_M:0!=0.50.ST:0!=0_I:0xW000dd05c_I:0xW00000208_0xX00000000=37155056"
     },
     {
       "achievementId": 105053,
       "title": "Tiny Man and Great Danger",
-      "description": "Beat W3-C as Tiny Mario without touching the water, collecting coins or using the checkpoint.",
+      "description": "Beat W3-C as mini Mario without touching the water, collecting coins or using the checkpoint.",
       "points": 10,
       "trueRatio": 48,
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116414.png",
-      "numAwarded": 792,
-      "numAwardedHardcore": 704,
+      "numAwarded": 841,
+      "numAwardedHardcore": 748,
       "displayOrder": 53,
-      "memAddr": "4eec4079e57a31328aca4f10c38e586f"
+      "memAddr": "I:0xW0dcb4c_T:0xH0000c4<=9_I:0xW0dcb4c_T:0xH0000c4>=1_I:0xW0dcb4c_T:d0xH0000c4=0_T:0xX0980d4=57_R:0xX098054!=5_R:0xX098058!=2_N:0xX0980d4!=4294967295_N:0xX0980d4!=56_R:0xX0980d4!=57_R:0xH1c1fe7!=4_N:0xX0980d4=56_I:0xW09dbf8_0xX00005c<895392.20._R:0xH09dc18!=d0xH09dc18_I:0xW09dbf8_N:0xX000060<4293009408_I:0xW09dbf8_R:0xH000734=1_I:0xW09dbf8_N:0xX000060<4293009408_I:0xW09dbf8_R:0xH000734=32_0xX0980b8=0"
     },
     {
       "achievementId": 105054,
@@ -1005,10 +1005,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116415.png",
-      "numAwarded": 771,
-      "numAwardedHardcore": 683,
+      "numAwarded": 819,
+      "numAwardedHardcore": 727,
       "displayOrder": 54,
-      "memAddr": "4792512fe05be130271359221a43048d"
+      "memAddr": "N:0xX000980d4=78_I:0xW0009dbf8_N:0xX0000005c<=385023_I:0xW0009dbf8_N:0xX00000060<=4292214784_I:0xW0009dbf8_N:0xH00000734=0_I:0xW0009dbf8_T:d0xM00000734=1.1._N:0xX000980d4=78_I:0xW0009dbf8_N:0xX0000005c<=385023_I:0xW0009dbf8_N:0xX00000060<=4292214784_I:0xW0009dbf8_N:0xH00000734=0_I:0xW0009dbf8_P:d0xM00000734=1.2._N:0xX000980d4=78_I:0xW0009dbf8_N:0xX0000005c>385023_I:0xW0009dbf8_N:0xX0000005c<1257472_I:0xW0009dbf8_N:0xX00000060<=4292280320_I:0xW0009dbf8_P:0xM00000734=1.1._N:0xX000980d4=78_I:0xW0009dbf8_N:0xX0000005c>1695743_I:0xW0009dbf8_N:0xX0000005c<2437120_I:0xW0009dbf8_N:0xX00000060<=4292214784_I:0xW0009dbf8_P:0xM00000734=1.1._N:0xX000980d4=78_I:0xW0009dbf8_N:0xX0000005c>3070652_I:0xW0009dbf8_N:0xX0000005c<3747840_I:0xW0009dbf8_N:0xX00000060<=4292214784_I:0xW0009dbf8_P:0xM00000734=1.1._N:0xX000980d4=78_I:0xW0009dbf8_N:0xX0000005c>5234687_I:0xW0009dbf8_N:0xX0000005c<5517312_I:0xW0009dbf8_N:0xX00000060<=4292149248_I:0xW0009dbf8_P:0xM00000734=1.1._N:0xX000980d4=78_I:0xW0009dbf8_N:0xX0000005c>6151719_I:0xW0009dbf8_N:0xX0000005c<6567543_I:0xW0009dbf8_N:0xX00000060<=4292149248_I:0xW0009dbf8_P:0xM00000734=1.1._N:0xX000980d4=78_I:0xW0009dbf8_N:0xX0000005c>7984823_I:0xW0009dbf8_N:0xX0000005c<8794112_I:0xW0009dbf8_N:0xX00000060<=4292214784_I:0xW0009dbf8_P:0xM00000734=1.1._N:0xX000980d4=78_I:0xW0009dbf8_N:0xX0000005c>9560063_I:0xW0009dbf8_N:0xX0000005c<9908224_I:0xW0009dbf8_N:0xX00000060<=4292411392_I:0xW0009dbf8_P:0xM00000734=1.1._N:0xX000980d4=78_I:0xW0009dbf8_N:0xX0000005c>10936319_I:0xW0009dbf8_N:0xX0000005c<11350016_I:0xW0009dbf8_N:0xX00000060<=4292280320_I:0xW0009dbf8_P:0xM00000734=1.1._N:0xX000980d4=78_I:0xW0009dbf8_N:0xX0000005c>13031232_I:0xW0009dbf8_N:0xX0000005c<13383408_I:0xW0009dbf8_N:0xX00000060<=4292214784_I:0xW0009dbf8_P:0xM00000734=1.1._N:0xX000980d4=78_I:0xW0009dbf8_N:0xX0000005c>16111903_I:0xW0009dbf8_N:0xX0000005c<16791103_I:0xW0009dbf8_N:0xX00000060<=4292149248_I:0xW0009dbf8_P:0xM00000734=1.1._N:0xX000980d4=78_I:0xW0009dbf8_N:0xX0000005c>18143860_I:0xW0009dbf8_N:0xX0000005c<=18735103_I:0xW0009dbf8_N:0xX00000060<=4292411392_I:0xW0009dbf8_P:0xM00000734=1.1._0xX000980d4>=78_0xX000980d4<=79_N:0xX000980d4=78_I:0xW0009dbf8_N:d0xX0000005c<=385023_I:0xW0009dbf8_N:d0xX00000060<=4292214784_I:0xW0009dbf8_N:0xX0000005c<=385023_I:0xW0009dbf8_N:0xX00000060<=4292214784_I:0xW0009dbf8_N:d0xM00000734=0_I:0xW0009dbf8_P:0xM00000734=1.2._0xX000980b8=0_T:0xX000980d4=78_I:0xW0009dbf8_T:0xX0000005c>18669423_I:0xW0009dbf8_T:0xX0000005c<=18735103_I:0xW0009dbf8_T:0xX00000060>=4292542464_I:0xW0009dbf8_T:0xM00000734=1SR:0xH000980b8=1"
     },
     {
       "achievementId": 105055,
@@ -1019,38 +1019,38 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116416.png",
-      "numAwarded": 894,
-      "numAwardedHardcore": 788,
+      "numAwarded": 947,
+      "numAwardedHardcore": 836,
       "displayOrder": 55,
-      "memAddr": "2be903611f39d7de490e956884563d34"
+      "memAddr": "R:0xH098054!=8_R:0xH098058!=4_R:0xX0980d4!=102_R:0xH0980b8!=0_R:0xH1d2464!=1_C:0xH09dc18!=d0xH09dc18_B:d0xH09dc18_C:0xH09dc18=2_N:d0xH09dc18=98_C:0xH09dc18=0_N:d0xH09dc18=99_C:0xH09dc18=1_B:d0xH09dc18_C:0xH09dc18=3_B:d0xH09dc18_C:0xH09dc18=3_N:d0xH09dc18=97_C:0xH09dc18=0_N:d0xH09dc18=97_C:0xH09dc18=0_N:d0xH09dc18=98_C:0xH09dc18=1_N:d0xH09dc18=98_C:0xH09dc18=1_N:d0xH09dc18=99_C:0xH09dc18=2_N:d0xH09dc18=99_C:0xH09dc18=2_N:d0xH09dc18=96_C:0xH09dc18=0_N:d0xH09dc18=96_C:0xH09dc18=0_N:d0xH09dc18=96_C:0xH09dc18=0_N:d0xH09dc18=97_C:0xH09dc18=1_N:d0xH09dc18=97_C:0xH09dc18=1_N:d0xH09dc18=97_C:0xH09dc18=1_N:d0xH09dc18=98_C:0xH09dc18=2_N:d0xH09dc18=98_C:0xH09dc18=2_N:d0xH09dc18=98_C:0xH09dc18=2_N:d0xH09dc18=99_C:0xH09dc18=3_N:d0xH09dc18=99_C:0xH09dc18=3_N:d0xH09dc18=99_C:0xH09dc18=3_N:d0xH09dc18=95_C:0xH09dc18=0_N:d0xH09dc18=95_C:0xH09dc18=0_N:d0xH09dc18=95_C:0xH09dc18=0_N:d0xH09dc18=95_C:0xH09dc18=0_N:d0xH09dc18=96_C:0xH09dc18=1_N:d0xH09dc18=96_C:0xH09dc18=1_N:d0xH09dc18=96_C:0xH09dc18=1_N:d0xH09dc18=96_C:0xH09dc18=1_N:d0xH09dc18=97_C:0xH09dc18=2_N:d0xH09dc18=97_C:0xH09dc18=2_N:d0xH09dc18=97_C:0xH09dc18=2_N:d0xH09dc18=97_C:0xH09dc18=2_N:d0xH09dc18=98_C:0xH09dc18=3_N:d0xH09dc18=98_C:0xH09dc18=3_N:d0xH09dc18=98_C:0xH09dc18=3_N:d0xH09dc18=98_C:0xH09dc18=3_N:d0xH09dc18=99_C:0xH09dc18=4_N:d0xH09dc18=99_C:0xH09dc18=4_N:d0xH09dc18=99_C:0xH09dc18=4_N:d0xH09dc18=99_C:0xH09dc18=4_T:0!=0.85."
     },
     {
       "achievementId": 105056,
       "title": "Feel the Rhythm",
       "description": "Collect at least 60 coins in the secret sky area in W6-2.",
       "points": 10,
-      "trueRatio": 49,
+      "trueRatio": 50,
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116417.png",
-      "numAwarded": 764,
-      "numAwardedHardcore": 678,
+      "numAwarded": 806,
+      "numAwardedHardcore": 716,
       "displayOrder": 56,
-      "memAddr": "41d0c5c701cfff957ad2c62ec881c7fb"
+      "memAddr": "R:0xH00098054!=1_R:0xH00098058!=5_R:0xX000980d4!=110_R:0xH000980b8!=0_N:0xH001d2464=1_T:0xH0009dc18!=d0xH0009dc18.60.SM:0xH0009dc18!=d0xH0009dc18.60.ST:0!=0.60."
     },
     {
       "achievementId": 105057,
       "title": "Platformer-King Since 1985",
-      "description": "Reach the backroom in W6-Castle without stepping on a moving platform, using a Tiny Mushroom or using the Checkpoint.",
+      "description": "Reach the backroom in W6-Castle without stepping on a moving platform, using a mini Mushroom or using the Checkpoint.",
       "points": 25,
-      "trueRatio": 135,
+      "trueRatio": 136,
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116418.png",
-      "numAwarded": 695,
-      "numAwardedHardcore": 618,
+      "numAwarded": 731,
+      "numAwardedHardcore": 652,
       "displayOrder": 57,
-      "memAddr": "05bacdc14da42ba15c56f617156ac94c"
+      "memAddr": "N:0xX0980d4=126_N:0xX0980b8=0_I:0xW09dbf8_0xX00005c<360448.10._T:0xX0980d4=128_I:0xW09dbf8_T:0xX00005c>=155648_I:0xW09dbf8_T:0xX00005c<=172032_I:0xW09dbf8_T:0xX000060>=4292739072_I:0xW09dbf8_T:0xX000060<=4294844416_0xX0980b8=0SR:0xX098054!=10_R:0xX098058!=5_R:0xX0980d4<126_R:0xX0980d4>128_R:0xH1c1fe7=4_R:0xX0980b8=1SI:0xW09dbf8_P:0xM000734=0_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>430080_I:0xW09dbf8_N:0xX00005c<2060288_I:0xW09dbf8_R:0xX000060=4293066752_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>2134016_I:0xW09dbf8_N:0xX00005c<2912256_I:0xW09dbf8_R:0xX000060=4293132288_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>2985984_I:0xW09dbf8_N:0xX00005c<3301376_I:0xW09dbf8_R:0xX000060<=4293263360_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>4362240_I:0xW09dbf8_N:0xX00005c<5140480_I:0xW09dbf8_R:0xX000060=4293066752_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>5214208_I:0xW09dbf8_N:0xX00005c<5861376_I:0xW09dbf8_R:0xX000060=4293132288_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>5869568_I:0xW09dbf8_N:0xX00005c<6647808_I:0xW09dbf8_R:0xX000060=4293328896_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>6721536_I:0xW09dbf8_N:0xX00005c<7241728_I:0xW09dbf8_R:0xX000060=4293001216_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>7237632_I:0xW09dbf8_N:0xX00005c<7565312_I:0xW09dbf8_R:0xX000060=4293197824_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>7573504_I:0xW09dbf8_N:0xX00005c<7888896_I:0xW09dbf8_R:0xX000060=4293001216_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>8282112_I:0xW09dbf8_N:0xX00005c<8679424_I:0xW09dbf8_R:0xX000060=4293132288_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>9592832_I:0xW09dbf8_N:0xX00005c<10252288_I:0xW09dbf8_R:0xX000060=4293525504_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>10129408_I:0xW09dbf8_N:0xX00005c<10907648_I:0xW09dbf8_R:0xX000060=4293001216_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>10981376_I:0xW09dbf8_N:0xX00005c<11169792_I:0xW09dbf8_N:0xX000060!=4293197824_I:0xW09dbf8_R:0xX000060<=4294115328_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>11636736_I:0xW09dbf8_N:0xX00005c<11825152_I:0xW09dbf8_N:0xX000060>4293263360_I:0xW09dbf8_R:0xX000060<=4293459968_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>11898880_I:0xW09dbf8_N:0xX00005c<12087296_I:0xW09dbf8_N:0xX000060>4293263360_I:0xW09dbf8_R:0xX000060<=4293459968_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>12161024_I:0xW09dbf8_N:0xX00005c<12349440_I:0xW09dbf8_N:0xX000060>4293263360_I:0xW09dbf8_R:0xX000060<=4293459968_N:0xX0980d4=126_I:0xW09dbf8_N:0xX00005c>12423168_I:0xW09dbf8_N:0xX00005c<12742656_I:0xW09dbf8_N:0xX000060>4293263360_I:0xW09dbf8_R:0xX000060<=4293459968"
     },
     {
       "achievementId": 105058,
@@ -1061,10 +1061,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116419.png",
-      "numAwarded": 889,
-      "numAwardedHardcore": 802,
+      "numAwarded": 944,
+      "numAwardedHardcore": 849,
       "displayOrder": 58,
-      "memAddr": "288854ed06dbbddeaf81e27129cf49be"
+      "memAddr": "R:0xH00098054!=2_R:0xH00098058!=6_R:0xX000980d4!=134_0xH000980b8=0SC:0xH0009dc18!=d0xH0009dc18_B:d0xH0009dc18_C:0xH0009dc18=2_N:d0xH0009dc18=98_C:0xH0009dc18=0_N:d0xH0009dc18=99_C:0xH0009dc18=1_B:d0xH0009dc18_C:0xH0009dc18=3_B:d0xH0009dc18_C:0xH0009dc18=3_N:d0xH0009dc18=97_C:0xH0009dc18=0_N:d0xH0009dc18=97_C:0xH0009dc18=0_N:d0xH0009dc18=98_C:0xH0009dc18=1_N:d0xH0009dc18=98_C:0xH0009dc18=1_N:d0xH0009dc18=99_C:0xH0009dc18=2_N:d0xH0009dc18=99_C:0xH0009dc18=2_N:d0xH0009dc18=96_C:0xH0009dc18=0_N:d0xH0009dc18=96_C:0xH0009dc18=0_N:d0xH0009dc18=96_C:0xH0009dc18=0_N:d0xH0009dc18=97_C:0xH0009dc18=1_N:d0xH0009dc18=97_C:0xH0009dc18=1_N:d0xH0009dc18=97_C:0xH0009dc18=1_N:d0xH0009dc18=98_C:0xH0009dc18=2_N:d0xH0009dc18=98_C:0xH0009dc18=2_N:d0xH0009dc18=98_C:0xH0009dc18=2_N:d0xH0009dc18=99_C:0xH0009dc18=3_N:d0xH0009dc18=99_C:0xH0009dc18=3_N:d0xH0009dc18=99_C:0xH0009dc18=3_N:d0xH0009dc18=95_C:0xH0009dc18=0_N:d0xH0009dc18=95_C:0xH0009dc18=0_N:d0xH0009dc18=95_C:0xH0009dc18=0_N:d0xH0009dc18=95_C:0xH0009dc18=0_N:d0xH0009dc18=96_C:0xH0009dc18=1_N:d0xH0009dc18=96_C:0xH0009dc18=1_N:d0xH0009dc18=96_C:0xH0009dc18=1_N:d0xH0009dc18=96_C:0xH0009dc18=1_N:d0xH0009dc18=97_C:0xH0009dc18=2_N:d0xH0009dc18=97_C:0xH0009dc18=2_N:d0xH0009dc18=97_C:0xH0009dc18=2_N:d0xH0009dc18=97_C:0xH0009dc18=2_N:d0xH0009dc18=98_C:0xH0009dc18=3_N:d0xH0009dc18=98_C:0xH0009dc18=3_N:d0xH0009dc18=98_C:0xH0009dc18=3_N:d0xH0009dc18=98_C:0xH0009dc18=3_N:d0xH0009dc18=99_C:0xH0009dc18=4_N:d0xH0009dc18=99_C:0xH0009dc18=4_N:d0xH0009dc18=99_C:0xH0009dc18=4_N:d0xH0009dc18=99_C:0xH0009dc18=4_M:0!=0.400.ST:0!=0"
     },
     {
       "achievementId": 105059,
@@ -1075,10 +1075,10 @@
       "type": "",
       "author": "SporyTike",
       "badgeUrl": "https://media.retroachievements.org/Badge/116420.png",
-      "numAwarded": 1928,
-      "numAwardedHardcore": 1566,
+      "numAwarded": 2048,
+      "numAwardedHardcore": 1654,
       "displayOrder": 59,
-      "memAddr": "2a7f1e91e6a8b60347592fa9ab459fd1"
+      "memAddr": "0xH000000=0xH000000S0xH098054=1_0xH098058=4_0xX0980d4=89_d0xH1c1746=4_0xH1c1746=5S0xH098054=1_0xH098058=4_0xX0980d4=89_d0xH1c1738=2_0xH1c1738=3S0xH098054=2_0xH098058=5_0xX0980d4=111_d0xH1c1746=4_0xH1c1746=5S0xH098054=2_0xH098058=5_0xX0980d4=111_d0xH1c1738=2_0xH1c1738=3"
     },
     {
       "achievementId": 510924,
@@ -1089,24 +1089,24 @@
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578107.png",
-      "numAwarded": 1149,
-      "numAwardedHardcore": 963,
+      "numAwarded": 1301,
+      "numAwardedHardcore": 1073,
       "displayOrder": 1001,
-      "memAddr": "47ea51005d00b3d17d36d41eb0387628"
+      "memAddr": "0xX00172088=9_d0xX001a98f4=2_0xX001a98f4=3"
     },
     {
       "achievementId": 510925,
       "title": "Dodging Snowball",
       "description": "Get to the end in Snowball Slalom three times in a row.",
       "points": 10,
-      "trueRatio": 49,
+      "trueRatio": 47,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578108.png",
-      "numAwarded": 775,
-      "numAwardedHardcore": 685,
+      "numAwarded": 873,
+      "numAwardedHardcore": 766,
       "displayOrder": 1002,
-      "memAddr": "8124b79d1e351be96b9b64017b0d4eab"
+      "memAddr": "0xX00172088=9_N:d0xX001a98f4=2_M:0xX001a98f4=3.3._O:0xX001a98f4=4_R:0xX00172088!=9"
     },
     {
       "achievementId": 510926,
@@ -1117,24 +1117,24 @@
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578109.png",
-      "numAwarded": 1036,
-      "numAwardedHardcore": 909,
+      "numAwarded": 1169,
+      "numAwardedHardcore": 1012,
       "displayOrder": 1003,
-      "memAddr": "6a6a6ba75873d93d03afac3463343b70"
+      "memAddr": "0xX00172088=7_A:0xH001aa0b9_0xH001aa0f9>=11_N:d0xX001aa480=1_0xH001aa480=2"
     },
     {
       "achievementId": 510927,
       "title": "Master Launcher",
       "description": "Launch and catch 22 Spiny Eggs in Lakitu Launch.",
       "points": 10,
-      "trueRatio": 51,
+      "trueRatio": 49,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578110.png",
-      "numAwarded": 735,
-      "numAwardedHardcore": 660,
+      "numAwarded": 819,
+      "numAwardedHardcore": 733,
       "displayOrder": 1004,
-      "memAddr": "2eb12e80441052231abc6b4fa206ac9d"
+      "memAddr": "0xX00172088=7_A:0xH001aa0b9_0xH001aa0f9>=22_N:d0xX001aa480=1_0xH001aa480=2"
     },
     {
       "achievementId": 510928,
@@ -1145,24 +1145,24 @@
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578111.png",
-      "numAwarded": 1321,
-      "numAwardedHardcore": 1124,
+      "numAwarded": 1468,
+      "numAwardedHardcore": 1241,
       "displayOrder": 1005,
-      "memAddr": "1269189f662baa64829f071ff46298c9"
+      "memAddr": "0xX00172088=30_0xX001a9690>=1111_d0xX001a9690<1111"
     },
     {
       "achievementId": 510929,
       "title": "Stayin' Alive",
       "description": "Survive long enough to get a score of 4,444 in Danger, Bob-omb! Danger!",
       "points": 10,
-      "trueRatio": 57,
+      "trueRatio": 55,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578112.png",
-      "numAwarded": 651,
-      "numAwardedHardcore": 578,
+      "numAwarded": 720,
+      "numAwardedHardcore": 643,
       "displayOrder": 1006,
-      "memAddr": "55647440b875a3dcb06f7a22a3830e89"
+      "memAddr": "0xX00172088=30_0xX001a9690>=4444_d0xX001a9690<4444"
     },
     {
       "achievementId": 510930,
@@ -1173,38 +1173,38 @@
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578113.png",
-      "numAwarded": 1230,
-      "numAwardedHardcore": 1041,
+      "numAwarded": 1384,
+      "numAwardedHardcore": 1153,
       "displayOrder": 1007,
-      "memAddr": "144bd8f9c196f3891524e6233755fbcd"
+      "memAddr": "0xX00172088=11_0xX001aa48c>=44_0xX001aa48c<=46_d0xX001aa48c<44_d0xX001aa48c>=42"
     },
     {
       "achievementId": 510931,
       "title": "Whack Me Twice, Shame On Me",
       "description": "Whack 77 Monty Moles in Whack-a-Monty.",
       "points": 10,
-      "trueRatio": 55,
+      "trueRatio": 53,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578114.png",
-      "numAwarded": 688,
-      "numAwardedHardcore": 598,
+      "numAwarded": 770,
+      "numAwardedHardcore": 665,
       "displayOrder": 1008,
-      "memAddr": "4a281bd23252ab91edc9774cef4e7c86"
+      "memAddr": "0xX00172088=11_0xX001aa48c>=77_0xX001aa48c<=80_d0xX001aa48c<77_d0xX001aa48c>=74"
     },
     {
       "achievementId": 510992,
       "title": "Weeeeee",
       "description": "Reach the airship in Balloon Racing",
       "points": 4,
-      "trueRatio": 23,
+      "trueRatio": 22,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578182.png",
-      "numAwarded": 658,
-      "numAwardedHardcore": 560,
+      "numAwarded": 720,
+      "numAwardedHardcore": 615,
       "displayOrder": 1009,
-      "memAddr": "3d704d1e34a37128b26b1acfa772ca30"
+      "memAddr": "0xH00172088=12_0xH001a9f38=2_d0xH001a9f38=1"
     },
     {
       "achievementId": 510932,
@@ -1215,10 +1215,10 @@
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578115.png",
-      "numAwarded": 1187,
-      "numAwardedHardcore": 1012,
+      "numAwarded": 1315,
+      "numAwardedHardcore": 1116,
       "displayOrder": 1011,
-      "memAddr": "edd927b805449feef8e3296d66934639"
+      "memAddr": "0xX00172088=10_d0xH001a71e8=29_0xH001a71e8=30"
     },
     {
       "achievementId": 510933,
@@ -1229,38 +1229,38 @@
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578116.png",
-      "numAwarded": 1173,
-      "numAwardedHardcore": 1006,
+      "numAwarded": 1306,
+      "numAwardedHardcore": 1113,
       "displayOrder": 1012,
-      "memAddr": "746346a77c7f29b5093875375e6c291b"
+      "memAddr": "0xX00172088=10_0xH001aa1b0=50_d0xH001aa1b0<50"
     },
     {
       "achievementId": 510934,
       "title": "Wiggle That Wiggler",
       "description": "Clear Level 20 in Which Wiggler?",
       "points": 5,
-      "trueRatio": 29,
+      "trueRatio": 28,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578117.png",
-      "numAwarded": 640,
-      "numAwardedHardcore": 571,
+      "numAwarded": 701,
+      "numAwardedHardcore": 625,
       "displayOrder": 1013,
-      "memAddr": "1fa22cefbc7dab3207a722c50d929639"
+      "memAddr": "0xX00172088=14_d0xH001a76d8=19_0xH001a76d8=20"
     },
     {
       "achievementId": 510935,
       "title": "Now You Can Take Your Time",
       "description": "Get your time up to 50 seconds in Which Wiggler?",
       "points": 5,
-      "trueRatio": 29,
+      "trueRatio": 28,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578118.png",
-      "numAwarded": 639,
-      "numAwardedHardcore": 567,
+      "numAwarded": 698,
+      "numAwardedHardcore": 619,
       "displayOrder": 1014,
-      "memAddr": "295dac2d4044ca63d2f7bc8b67f3d403"
+      "memAddr": "0xX00172088=14_d0xH001a9ba4<50_d0xH001a9ba4>=45_0xH001a9ba4=50"
     },
     {
       "achievementId": 510936,
@@ -1271,52 +1271,52 @@
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578119.png",
-      "numAwarded": 805,
-      "numAwardedHardcore": 707,
+      "numAwarded": 900,
+      "numAwardedHardcore": 787,
       "displayOrder": 1015,
-      "memAddr": "36fd057b473afa86b28abdde309b99d8"
+      "memAddr": "0xX00172088=11_0xX001a7a18=5_d0xX001a7a18=4"
     },
     {
       "achievementId": 510937,
       "title": "Nyctalope",
       "description": "Clear Level 11 in Hide and Boo Seek.",
       "points": 10,
-      "trueRatio": 80,
+      "trueRatio": 77,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/580900.png",
-      "numAwarded": 475,
-      "numAwardedHardcore": 401,
+      "numAwarded": 527,
+      "numAwardedHardcore": 445,
       "displayOrder": 1016,
-      "memAddr": "85c1642a43bbefc1acfd9920980ef52d"
+      "memAddr": "0xX00172088=11_0xX001a7a18=11_d0xX001a7a18=10"
     },
     {
       "achievementId": 510938,
       "title": "Puzzle Enthusiast",
       "description": "Clear Level 11 in Puzzle Panel.",
       "points": 2,
-      "trueRatio": 10,
+      "trueRatio": 9,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578121.png",
-      "numAwarded": 757,
-      "numAwardedHardcore": 673,
+      "numAwarded": 832,
+      "numAwardedHardcore": 738,
       "displayOrder": 1017,
-      "memAddr": "5feca3a2aac3357378c30c55cfa21ee6"
+      "memAddr": "0xX00172088=5_0xH001a7654=11_d0xH001a7654=10"
     },
     {
       "achievementId": 510939,
       "title": "Master Puzzler",
       "description": "Clear Level 22 in Puzzle Panel.",
       "points": 10,
-      "trueRatio": 64,
+      "trueRatio": 61,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578122.png",
-      "numAwarded": 566,
-      "numAwardedHardcore": 512,
+      "numAwarded": 629,
+      "numAwardedHardcore": 569,
       "displayOrder": 1018,
-      "memAddr": "99256f77ef2a2b7a068f3a5c9ec1018b"
+      "memAddr": "0xX00172088=5_0xH001a7654=22_d0xH001a7654=21"
     },
     {
       "achievementId": 510940,
@@ -1327,24 +1327,24 @@
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578123.png",
-      "numAwarded": 713,
-      "numAwardedHardcore": 623,
+      "numAwarded": 792,
+      "numAwardedHardcore": 690,
       "displayOrder": 1019,
-      "memAddr": "3aef3a62d9e4f74c697542578dbab8ce"
+      "memAddr": "0xX00172088=11_0xH001a73d4<=26_0xH001a73d4>=22_d0xH001a73d4<22_d0xH001a73d4>17"
     },
     {
       "achievementId": 510941,
       "title": "Eye of the Pig",
       "description": "Find at least 33 coins in Coincentration.",
       "points": 10,
-      "trueRatio": 61,
+      "trueRatio": 58,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578124.png",
-      "numAwarded": 625,
-      "numAwardedHardcore": 542,
+      "numAwarded": 692,
+      "numAwardedHardcore": 599,
       "displayOrder": 1020,
-      "memAddr": "3046f9903970047ce57637cfbe33b3ed"
+      "memAddr": "0xX00172088=11_0xH001a73d4<=37_0xH001a73d4>=33_d0xH001a73d4<33_d0xH001a73d4>29"
     },
     {
       "achievementId": 510942,
@@ -1355,24 +1355,24 @@
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578125.png",
-      "numAwarded": 897,
-      "numAwardedHardcore": 797,
+      "numAwarded": 999,
+      "numAwardedHardcore": 883,
       "displayOrder": 1021,
-      "memAddr": "2826c99b56808b8f0d5f79908261bf4b"
+      "memAddr": "0xX00172088=6_0xX001a71a0<70_0xX001a71a0>=55_d0xX001a71a0<55_d0xX001a71a0>=35"
     },
     {
       "achievementId": 510943,
       "title": "Eidetic Memory",
       "description": "Clear Level 15 in Memory Match.",
       "points": 10,
-      "trueRatio": 55,
+      "trueRatio": 53,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578126.png",
-      "numAwarded": 672,
-      "numAwardedHardcore": 605,
+      "numAwarded": 741,
+      "numAwardedHardcore": 664,
       "displayOrder": 1022,
-      "memAddr": "df813df928998dbfc9750828ae2c8b04"
+      "memAddr": "0xX00172088=6_0xH001a71ac=16_d0xH001a71ac=15"
     },
     {
       "achievementId": 510944,
@@ -1383,52 +1383,52 @@
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578127.png",
-      "numAwarded": 1119,
-      "numAwardedHardcore": 952,
+      "numAwarded": 1247,
+      "numAwardedHardcore": 1052,
       "displayOrder": 1023,
-      "memAddr": "700d181448891d76c0389ce5b03cd7d5"
+      "memAddr": "0xX00172088=6_0xX001a7218<111_0xX001a7218>=44_d0xX001a7218<44"
     },
     {
       "achievementId": 510945,
       "title": "Gambling Addict",
       "description": "Rack up at least 444 coins in Picture Poker.",
       "points": 10,
-      "trueRatio": 45,
+      "trueRatio": 44,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578128.png",
-      "numAwarded": 836,
-      "numAwardedHardcore": 751,
+      "numAwarded": 917,
+      "numAwardedHardcore": 819,
       "displayOrder": 1024,
-      "memAddr": "f64daaa48773153926e26543d6f17287"
+      "memAddr": "0xX00172088=6_0xX001a7218>=444_0xX001a7218<555_d0xX001a7218<444"
     },
     {
       "achievementId": 510946,
       "title": "Clean Slate",
       "description": "Clear the board three times in a row in Pair-a-Gone.",
       "points": 2,
-      "trueRatio": 10,
+      "trueRatio": 9,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578129.png",
-      "numAwarded": 726,
-      "numAwardedHardcore": 650,
+      "numAwarded": 814,
+      "numAwardedHardcore": 723,
       "displayOrder": 1025,
-      "memAddr": "14b9333b222990ba7f2a72967139f190"
+      "memAddr": "0xX00172088=6_M:0xH001a6510>d0xH001a6510.3._O:0xX00172088!=6_R:0xH001a6510<d0xH001a6510"
     },
     {
       "achievementId": 510947,
       "title": "Making Bank",
       "description": "Rack up at least 99 coins in Pair-a-Gone.",
       "points": 10,
-      "trueRatio": 65,
+      "trueRatio": 63,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578130.png",
-      "numAwarded": 553,
-      "numAwardedHardcore": 501,
+      "numAwarded": 611,
+      "numAwardedHardcore": 551,
       "displayOrder": 1026,
-      "memAddr": "388ac8e80019a4d572d6c6bde3c7260d"
+      "memAddr": "0xX00172088=6_0xH001a6504<120_0xH001a6504>=99_d0xH001a6504<99_d0xH001a6504>=80"
     },
     {
       "achievementId": 510948,
@@ -1439,24 +1439,24 @@
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578131.png",
-      "numAwarded": 692,
-      "numAwardedHardcore": 609,
+      "numAwarded": 769,
+      "numAwardedHardcore": 673,
       "displayOrder": 1027,
-      "memAddr": "99ec7f50c67b7c51e7655aae62a87ea0"
+      "memAddr": "0xX00172088=10_0xH001aa488=10_d0xH001aa488=9"
     },
     {
       "achievementId": 510949,
       "title": "Path Planner",
       "description": "Score at least 30 in Mario's Slides.",
       "points": 10,
-      "trueRatio": 82,
+      "trueRatio": 79,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578132.png",
-      "numAwarded": 448,
-      "numAwardedHardcore": 391,
+      "numAwarded": 494,
+      "numAwardedHardcore": 431,
       "displayOrder": 1028,
-      "memAddr": "c8d9ef058db2e9672a763c803d28986c"
+      "memAddr": "0xX00172088=10_0xH001aa488=30_d0xH001aa488=29"
     },
     {
       "achievementId": 510950,
@@ -1467,80 +1467,80 @@
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578133.png",
-      "numAwarded": 828,
-      "numAwardedHardcore": 695,
+      "numAwarded": 933,
+      "numAwardedHardcore": 774,
       "displayOrder": 1029,
-      "memAddr": "d30f60cac87382c0cd26a8c2cd024650"
+      "memAddr": "0xX00172088=8_0xH001a87f0=40_d0xH001a87f0<40"
     },
     {
       "achievementId": 510951,
       "title": "Quick on the Stylus",
       "description": "Score at least 120 in Sort of 'Splode.",
       "points": 10,
-      "trueRatio": 58,
+      "trueRatio": 55,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578134.png",
-      "numAwarded": 663,
-      "numAwardedHardcore": 568,
+      "numAwarded": 752,
+      "numAwardedHardcore": 638,
       "displayOrder": 1030,
-      "memAddr": "ed2418e6085cee97c6dc058167fe7c8c"
+      "memAddr": "0xX00172088=8_0xH001a87f0<160_0xH001a87f0>=120_d0xH001a87f0<120_d0xH001a87f0>=80"
     },
     {
       "achievementId": 510952,
       "title": "Shy Guys Make For Good Platforms",
       "description": "Score at least 30 in Bounce and Trounce.",
       "points": 2,
-      "trueRatio": 11,
+      "trueRatio": 10,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578135.png",
-      "numAwarded": 681,
-      "numAwardedHardcore": 603,
+      "numAwarded": 757,
+      "numAwardedHardcore": 668,
       "displayOrder": 1031,
-      "memAddr": "4c070bdd79b86d69464ebe9564b9152a"
+      "memAddr": "0xX00172088=12_0xH000c1d6c<50_0xH000c1d6c>=30_d0xH000c1d6c<30_d0xH000c1d6c>=20"
     },
     {
       "achievementId": 510953,
       "title": "Elegant Glider",
       "description": "Score at least 80 in Bounce and Trounce.",
       "points": 10,
-      "trueRatio": 70,
+      "trueRatio": 67,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578136.png",
-      "numAwarded": 511,
-      "numAwardedHardcore": 459,
+      "numAwarded": 571,
+      "numAwardedHardcore": 512,
       "displayOrder": 1032,
-      "memAddr": "fceaf48e8b99dc07e76b8758554312ad"
+      "memAddr": "0xX00172088=12_0xH000c1d6c<100_0xH000c1d6c>=80_d0xH000c1d6c<80_d0xH000c1d6c>=60"
     },
     {
       "achievementId": 510954,
       "title": "Bob-omb Blaster",
       "description": "Score at least 20,000 in Bob-omb Squad.",
       "points": 2,
-      "trueRatio": 9,
+      "trueRatio": 8,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578137.png",
-      "numAwarded": 846,
-      "numAwardedHardcore": 736,
+      "numAwarded": 945,
+      "numAwardedHardcore": 816,
       "displayOrder": 1033,
-      "memAddr": "8d34cca06372a2251a94ff3d7503df40"
+      "memAddr": "0xX00172088=8_0xX001a8eb0<30000_0xX001a8eb0>=20000_d0xX001a8eb0<20000_d0xX001a8eb0>=10000"
     },
     {
       "achievementId": 510955,
       "title": "Line 'Em Up!",
       "description": "Score at least 50,000 in Bob-omb Squad.",
       "points": 10,
-      "trueRatio": 71,
+      "trueRatio": 68,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578138.png",
-      "numAwarded": 521,
-      "numAwardedHardcore": 454,
+      "numAwarded": 585,
+      "numAwardedHardcore": 508,
       "displayOrder": 1034,
-      "memAddr": "6439b00c1d6aef2e4e0ca627b3e5eeb1"
+      "memAddr": "0xX00172088=8_0xX001a8eb0<60000_0xX001a8eb0>=50000_d0xX001a8eb0<50000_d0xX001a8eb0>=40000"
     },
     {
       "achievementId": 510956,
@@ -1551,24 +1551,24 @@
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/578139.png",
-      "numAwarded": 789,
-      "numAwardedHardcore": 681,
+      "numAwarded": 887,
+      "numAwardedHardcore": 761,
       "displayOrder": 1035,
-      "memAddr": "efb8c0d233326ddf539ae376450ee49b"
+      "memAddr": "0xX00172088=13_0xH0013ced0<15_0xH0013ced0>=10_d0xH0013ced0<10_d0xH0013ced0>=5"
     },
     {
       "achievementId": 510957,
       "title": "Marios Found Their Ways",
       "description": "Score at least 40 in Trampoline Time.",
       "points": 10,
-      "trueRatio": 72,
+      "trueRatio": 70,
       "type": "",
       "author": "KiwiTaco",
       "badgeUrl": "https://media.retroachievements.org/Badge/580901.png",
-      "numAwarded": 504,
-      "numAwardedHardcore": 445,
+      "numAwarded": 562,
+      "numAwardedHardcore": 493,
       "displayOrder": 1036,
-      "memAddr": "a3745fc02663997b08f48f58dc58ad43"
+      "memAddr": "0xX00172088=13_0xH0013ced0<45_0xH0013ced0>=40_d0xH0013ced0<40_d0xH0013ced0>=35"
     }
   ]
 }
